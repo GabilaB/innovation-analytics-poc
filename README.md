@@ -1,37 +1,64 @@
-# Innovation Analytics Proof of Concept
+# Innovation Analytics
+A reproducible analytics workflow for detecting and analyzing innovation signals in World Bank project documents using semantic retrieval, structured LLM classification, expert validation, and exploratory diffusion analysis.
 
-A reproducible prototype for detecting and analyzing innovation signals in World Bank project documents using semantic retrieval, structured LLM classification, expert validation, and exploratory diffusion analysis.
+## Why This Matters
+Innovation in development operations is rarely recorded as a consistent structured variable. Instead, it is embedded in narrative project documents through descriptions of technologies, institutional arrangements, financing mechanisms, service-delivery models, pilots, and scaling approaches.
 
-## Project Objective
+This project demonstrates a practical workflow for converting these unstructured descriptions into analyzable innovation signals. It explores how these signals can support:
+- portfolio-level innovation mapping,
+- identification of recurring innovation models,
+- comparison across countries and sectors,
+- analysis of replication and scaling patterns, and
+- future research linking project design to implementation outcomes.
 
-Innovation is rarely recorded as a consistent structured field in project documents. It is often embedded in descriptions of technologies, institutional arrangements, financing mechanisms, service-delivery models, pilots, and scaling approaches.
+## Objectives
+The project tests whether innovation signals can be systematically identified from unstructured World Bank Project Appraisal Documents and organized into a structured analytical framework.
+The workflow combines document processing, semantic retrieval, LLM-assisted classification, and expert validation to move from narrative project documentation to structured innovation data that can be analyzed across projects, countries, sectors, and time.
 
-This proof of concept tests whether innovation signals can be systematically identified from unstructured World Bank Project Appraisal Documents and organized into a structured analytical framework.
+## System Architecture
 
+```text
+World Bank Documents & Reports API
+                │
+                ▼
+       PAD Metadata + Text
+                │
+                ▼
+  Component/Subcomponent Extraction
+                │
+                ▼
+      Text Chunking + Embeddings
+                │
+                ▼
+   Semantic Innovation Retrieval
+                │
+                ▼
+ Ontology-Based LLM Classification
+                │
+                ▼
+        Expert Validation
+                │
+                ▼
+ Recurrence and Diffusion Analysis
+```
+The pipeline separates retrieval from classification:
+- semantic search identifies candidate innovation signals,
+- the classifier evaluates those candidates using a structured ontology,
+- expert labels are used to test model performance,
+- recurrence analysis examines patterns across projects, countries, and time.
+
+  
 ## Analytical Workflow
 
 The prototype follows seven stages:
 
-1. **Data ingestion**  
-   Retrieve World Bank Project Appraisal Documents and associated metadata from the Documents & Reports API.
-
-2. **Component extraction**  
-   Parse project documents into component- and subcomponent-level analytical units.
-
-3. **Semantic embeddings**  
-   Chunk project text and generate sentence embeddings for semantic retrieval.
-
-4. **Innovation retrieval**  
-   Use innovation-oriented semantic queries to identify candidate analytical units.
-
-5. **Innovation classification**  
-   Apply a structured ontology and LLM-assisted classifier to assess innovation presence, type, novelty, maturity, and evidence strength.
-
-6. **Expert validation**  
-   Compare model classifications against manually reviewed expert labels.
-
-7. **Diffusion analysis**  
-   Explore recurrence of innovation types across projects, countries, and time.
+1. **Data ingestion**: Retrieve World Bank Project Appraisal Documents and associated metadata from the Documents & Reports API.
+2. **Component extraction**: Parse project documents into component- and subcomponent-level analytical units.
+3. **Semantic embeddings**: Chunk project text and generate sentence embeddings for semantic retrieval.
+4. **Innovation retrieval**: Use innovation-oriented semantic queries to identify candidate analytical units.
+5. **Innovation classification**: Apply a structured ontology and LLM-assisted classifier to assess innovation presence, type, novelty, maturity, and evidence strength.
+6. **Expert validation**: Compare model classifications against manually reviewed expert labels.
+7. **Diffusion analysis**: Explore recurrence of innovation types across projects, countries, and time.
 
 ## Repository Structure
 
@@ -108,24 +135,22 @@ The classifier evaluates candidate units across the following dimensions:
 
 The ontology also includes explicit non-innovation guidance to avoid treating routine digitization, infrastructure, equipment procurement, or standard capacity building as innovation by default.
 
-## Model Evaluation
+## Key Results
 
-A stratified expert-validation sample of 35 analytical units was manually reviewed.
-
-Key results:
+The prototype was evaluated on a stratified sample of **35 expert-labelled analytical units**.
 
 | Metric | Result |
 |---|---:|
-| Multiclass accuracy | 74.3% |
-| Macro F1 | 0.785 |
-| Weighted F1 | 0.725 |
-| Binary innovation precision | 1.000 |
-| Binary innovation recall | 0.885 |
-| Binary innovation F1 | 0.939 |
+| Multiclass accuracy | **74.3%** |
+| Macro F1 | **0.785** |
+| Weighted F1 | **0.725** |
+| Binary innovation precision | **1.000** |
+| Binary innovation recall | **0.885** |
+| Binary innovation F1 | **0.939** |
 
-For binary innovation-signal detection, the model produced no false-positive innovation signals in the validation sample.
+For the binary task of identifying whether an analytical unit contains an innovation signal, the model produced **no false-positive innovation signals** in the validation sample.
 
-The main error pattern was conservative classification, particularly cases where expert review identified clear innovation but the model classified the activity as `possible_innovation`.
+The dominant error pattern was conservative classification: several activities labelled by expert review as clear innovation were classified by the model as `possible_innovation`.
 
 ## Diffusion and Recurrence Analysis
 
