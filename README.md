@@ -17,6 +17,17 @@ The workflow combines document processing, semantic retrieval, LLM-assisted clas
 
 ## System Architecture
 
+```mermaid
+flowchart TD
+    A[World Bank D&R API] --> B[01 · Ingest\n353-PAD corpus · 60-PAD prototype]
+    B --> C[02 · Extract PAD Metadata\n484 component and subcomponent units]
+    C --> D[03 · Embed\n1781 semantic chunks · all-MiniLM-L6-v2]
+    D --> E[04 · Retrieve\n65 innovation candidates]
+    E --> F[05 · Classify\nOntology-guided LLM · Groq]
+    F --> G[06 · Evaluate\n35 expert labels · 74.3% accuracy · F1 0.939]
+    G --> H[07 · Diffusion\nRecurrence across projects · countries · time]
+```
+
 ```text
 World Bank Documents & Reports API
                 │
