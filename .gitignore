@@ -1,0 +1,22 @@
+# Environment and secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Raw downloaded documents
+data/raw/
+
+# OS files
+.DS_Store
+Thumbs.db

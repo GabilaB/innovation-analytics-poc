@@ -1,0 +1,38 @@
+{
+  "innovation_presence": {
+    "innovation": "Clear evidence of a materially different approach, technology, mechanism, institutional arrangement, or delivery model.",
+    "possible_innovation": "Potential innovation signal exists, but available evidence is insufficient to make a confident determination.",
+    "not_innovation": "Routine project activity, standard infrastructure, ordinary capacity building, digitization, or established practice without evidence of substantive novelty.",
+    "insufficient_evidence": "The text does not provide enough information to assess novelty."
+  },
+  "innovation_type": {
+    "digital_data_technology": "Digital platforms, data systems, remote sensing, AI, geospatial systems, digital infrastructure, or other technology-enabled approaches.",
+    "process_service_delivery": "A materially different operational process, implementation mechanism, or service delivery model.",
+    "institutional_governance": "New institutional arrangements, coordination models, governance structures, or organizational mechanisms.",
+    "financing_instrument": "Results-based financing, risk sharing, matching grants, blended finance, performance payments, or other distinctive financing mechanisms.",
+    "policy_regulatory": "New policy, regulatory, legal, incentive, or standards-based approaches.",
+    "product_service": "A materially new product, service, tool, or solution provided to users.",
+    "other": "Innovation that does not fit the categories above."
+  },
+  "novelty_basis": {
+    "explicit_novelty": "The text explicitly identifies the activity as new, innovative, first, or pilot.",
+    "new_to_context": "The approach appears newly introduced in the country, institution, sector, or project context.",
+    "adaptation": "An existing approach is materially adapted to a new context.",
+    "replication": "An approach previously used elsewhere is being replicated.",
+    "unclear": "The basis of novelty cannot be determined from the text."
+  },
+  "maturity_stage": {
+    "concept": "Proposed or designed but not yet tested.",
+    "pilot": "Being piloted, demonstrated, or tested on a limited basis.",
+    "early_adoption": "Implemented beyond initial testing but still at an early stage.",
+    "replication": "Repeated or transferred to additional settings.",
+    "scaling": "Being deliberately expanded substantially.",
+    "mainstreamed": "Integrated into routine institutional or operational practice.",
+    "unclear": "Lifecycle stage cannot be determined."
+  },
+  "evidence_strength": {
+    "explicit": "The text directly states evidence supporting the classification.",
+    "strongly_inferred": "Evidence is strong but novelty is not explicitly stated.",
+    "weakly_inferred": "Classification depends substantially on interpretation."
+  }
+}

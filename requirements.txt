@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+python-dotenv
+sentence-transformers
+torch
+scikit-learn
+matplotlib
+pydantic
+groq

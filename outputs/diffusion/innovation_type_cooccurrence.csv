@@ -1,0 +1,7 @@
+type_a,digital_data_technology,financing_instrument,institutional_governance,policy_regulatory,process_service_delivery,product_service
+digital_data_technology,,5.0,9.0,5.0,10.0,5.0
+financing_instrument,5.0,0.0,9.0,3.0,7.0,2.0
+institutional_governance,9.0,9.0,0.0,6.0,14.0,8.0
+policy_regulatory,5.0,3.0,6.0,0.0,6.0,3.0
+process_service_delivery,10.0,7.0,14.0,6.0,0.0,7.0
+product_service,5.0,2.0,8.0,3.0,7.0,

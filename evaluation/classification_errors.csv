@@ -1,0 +1,3215 @@
+projectid,type,number,title,similarity,innovation_presence,innovation_types,novelty_basis,maturity_stage,evidence_strength,evidence_text,rationale,confidence,number_key,text,human_innovation_presence,human_innovation_types,human_novelty_basis,human_maturity_stage,human_notes,human_binary,model_binary,error_type
+P173240,component,5.0,Contingent Emergency Response Component (US$0.0 million),0.4319795,possible_innovation,"['financing_instrument', 'process_service_delivery']",new_to_context,concept,explicit,"""a Contingent Emergency Response Component (CERC) is added to the project structure to allow for quick disbursement of uncommitted balances as a crisis response measure... to allow for an agile and rapid reallocation of project funds""","The CERC introduces a financing/process mechanism for rapid fund reallocation during crises, which is not a routine component of World Bank projects. The text explicitly presents it as a new addition, indicating novelty, but similar mechanisms exist elsewhere, so the evidence supports a possible innovation rather than confirmed innovation.",0.75,5,"55.       In the context of a rapidly developing COVID-19 emergency, a Contingent Emergency Response
+
+   Component (CERC) is added to the project structure to allow for quick disbursement of uncommitted
+
+   balances as a crisis response measure for this COVID-19 situation or any future ones. This will have an
+
+   initial zero value but may be financed during the implementation of the project to allow for an agile and
+
+   rapid reallocation of project funds in the event of a natural or man-made crisis or emergency during
+
+   project implementation to address EEs under conditions established in the PIM.
+
+
+
+     C.      Project Beneficiaries
+
+
+
+   56.     The project will benefit a wide range of beneficiaries, including end users in rural areas, public-
+
+   sector entities and civil servants, the private sector, and the general population:
+
+      (a)   End users of digital services in target areas. The proposed project targets areas where access to
+
+            digital services and the adoption of broadband are lagging. Rural dwellers—including the youth,
+
+            women, and people with disabilities—will benefit from access to affordable broadband internet
+
+            and will be able to procure mobile handsets through subsidies and/or payment facilities. In
+
+            addition, they will benefit from digital literacy training programs and will be able to access public
+
+            services more efficiently through online platforms, as well as to consume online content and
+
+            services tailored to rural communities. The project will also ensure equitable participation of
+
+            marginalized or vulnerable groups in entrepreneurial activities and digital skills training programs
+
+            by alleviating constraints such as financing, care, access, and transportation. Gender- and
+
+            location-disaggregated data on connectivity will also be recorded to monitor and track progress
+
+            on key parameters of digital inclusion.
+
+      (b)   Public-sector entities in target areas. Public hospitals, health care centers, schools, universities,
+
+            CTD, and agricultural centers will benefit from affordable broadband connectivity and quality
+
+            internet access. In addition, entities that promote digital skills and entrepreneurship (for example,
+
+            incubators, accelerators, coworking spaces, and technology parks) will benefit from improved
+
+            connectivity and access, the acquisition of digital equipment, and capacity-building for their staff.
+
+      (c)   Farmers. Selected smallholder farmers will receive input subsidies through E-vouchers. The target
+
+            smallholder farmers include crop and non-crop farmers and pastoralists in the following strategic
+
+            value chains for MINADER and MINEPIA: cassava, rice, coffee, cashew, fish, bovine milk, pork, and
+
+
+
+
+
+                                                                                                          Page 38 of 92
+
+
+The World Bank
+
+Acceleration of the Digital Transformation of Cameroon Project (P173240)
+
+
+
+
+
+
+
+            chicken. The targeted number of direct beneficiaries is approximately 35,125 smallholder farmers,
+
+            livestock-rearing farmers, and pastoralists, out of which 20,099 are agricultural smallholder
+
+            farmers and 15,026 are smallholder livestock-rearing farmers and pastoralists. A matching grant
+
+            will also be provided to producer organizations, associations, cooperatives, and farmers to
+
+            promote adoption of digital innovations developed by agritech startups.
+
+      (d)   Startups and entrepreneurs. The most prominent agritech startups and entrepreneurs will be
+
+            selected through an innovation challenge event and will be offered contracts that will enable
+
+            them to expand their services.
+
+      (e)   Governmental agencies and civil servants. MINPOSTEL, MINADER, MINEPIA, ART, and ANTIC will
+
+            be able to procure critical equipment, and they will benefit from capacity building and digital skills
+
+            training. The data-driven agriculture and information systems will strengthen the public policy-
+
+            making tools at the national and regional levels. The enrolled officers in rural agricultural training
+
+            and animation centers will also benefit from digitalization, training, and capacity building.
+
+      (f)   Private market players in the digital and agritech sectors. Private businesses in the target areas
+
+            will get access to broadband and a digitally savvy workforce, and digital market players will benefit
+
+            from an improved business environment. The private agritech sector will also benefit from the
+
+            organization of innovation challenges focused on agriculture, acceleration activities, contracts,
+
+            and matching grants. The e-voucher for agricultural inputs will also support the development of
+
+            digital finance in the country.
+
+      (g)   General population. Nearly every current or future user of telecom and digital services will benefit
+
+            from the legal and regulatory reforms aimed at reducing costs, improving service quality, and
+
+            stimulating investment and innovation. At the macro level, the project will support increased
+
+            economic growth, productivity, and job creation, both within the digital and agricultural sectors
+
+            and through spillover effects on other productive sectors.
+
+
+
+     D.      Results Chain
+
+
+
+   57.     The table below presents the project’s results chain/theory of change and includes the
+
+   following assumptions:
+
+           (a) The GoC supports the reform of the telecom/broadband sector.
+
+           (b) The Government’s investment in the sector encourages private-sector entry into the market.
+
+           (c) The regulator can fulfill its duties independently, impartially, and effectively.
+
+           (d) Broadband connectivity and cost are the main drivers of user demand.
+
+           (e) Beneficiary farmers who are granted input subsidies through e-vouchers build stronger
+
+                confidence in the use of digital tools for other agricultural activities.
+
+           (f) Agritech entrepreneurs are sufficiently motivated to expand their services to rural farmers
+
+                in remote regions.
+
+
+
+
+
+
+
+
+
+                                                                                                           Page 39 of 92
+
+
+The World Bank
+
+Acceleration of the Digital Transformation of Cameroon Project (P173240)
+
+
+
+
+
+
+
+                                      Table 3. Project’s Results Chain/Theory of Change
+
+
+
+
+
+
+
+
+
+     E.       Rationale for World Bank Involvement and Role of Partners
+
+
+
+   58.      The World Bank brings long expertise in supporting similar digital projects globally, as well as
+
+   local knowledge. The World Bank’s added value includes (a) technical expertise in enabling policy and
+
+   regulatory frameworks in the telecom/broadband sector, including earlier work in Cameroon telecom and
+
+   a digital economy country diagnostic under the DE4A initiative; (b) technical expertise around the design
+
+   of the e-voucher scheme and the approaches used to scale up DATs and the digital innovation ecosystem
+
+   for agricultural development; (c) the ability to use a range of products and services in support of public-
+
+   and private-sector actors; and (d) the ability to generate more equitable and beneficial development
+
+   outcomes. For example, the e-voucher mechanism has been proposed based on operational experiences
+
+   in Nigeria and Uganda and the analysis of pilot experiences in Mali, Chad, Niger, and Guinea. 82 The
+
+   proposed project will also emulate the proven approaches adopted by the World Bank’s Digital Agriculture
+
+   Africa team (DAT-Africa team) in successfully scaling up digital innovation in agricultural programs through
+
+   World Bank-financed investment projects.83 The World Bank has been supporting digital transformation
+
+
+
+
+
+   82 AFCW3 Economic Update, Evidence from E-voucher programs in Mali, Niger, Chad and Guinea, Digitizing Agriculture, Spring
+
+   2019, https://openknowledge.worldbank.org/bitstream/handle/10986/31576/Digitizing-Agriculture-Evidence-from-E-Voucher-
+
+   programs-in-Mali-Chad-Niger-and-Guinea.pdf?sequence=1&isAllowed=y.
+
+   83 The DAT-Africa team organized innovation challenges in Kenya and Uganda to select agritech enterprises with demonstrably
+
+
+
+   scalable models to address sector challenges of agricultural productivity, market links, financial inclusion, energy, and data
+
+   analytics and agricultural intelligence. In both countries, the team is now working with ecosystem partners to deploy the
+
+   selected enterprises through three ongoing World Bank-supported projects with aggregate investments of US$600 million that
+
+
+
+
+
+
+
+
+
+                                                                                                                          Page 40 of 92
+
+
+The World Bank
+
+Acceleration of the Digital Transformation of Cameroon Project (P173240)
+
+
+
+
+
+
+
+   across six global regions for several decades and has been involved for a long time in Cameroon in both
+
+   the telecom and agricultural sectors.
+
+
+
+   59.     There is a strong rationale for the public financing of this project, given the public good nature
+
+   of the benefits derived from the project across social and economic sectors and the potential to increase
+
+   overall inclusion. The project will enable investments in digital connectivity in vital sectors such as
+
+   agriculture, health, and education. In addition, the project will address inclusion concerns in terms of
+
+   gender, disability, geography, and income levels to compensate for market failures and ensure that the
+
+   most vulnerable are not excluded from the social and economic benefits of Cameroon’s digital
+
+   transformation. Moreover, the improved internet connectivity and digital services that are made possible
+
+   through public interventions can dramatically improve Cameroon’s resilience to shocks (for example,
+
+   emergency calls, monitoring and tracking in dangerous areas, enabling digital communication, health
+
+   diagnosis, and distance learning during health crises such as COVID-19).
+
+
+
+   60.      Component 1 will seek to establish the conditions to incentivize private sector investment in
+
+   digital services in line with the MFD approach, while Component 2 will finance infrastructure in areas
+
+   where market failures prevent private-sector interventions in the absence of public-sector funding or
+
+   de-risking. A significant improvement of the policy and regulatory environment appears necessary to
+
+   unleash more private investment in the digital sector. Component 1 will aim to establish and perpetuate
+
+   such an environment. In addition, given the lack of incentives for private telecom operators to extend
+
+   digital services to areas and populations for which the financial return prospects are limited or negative,
+
+   public sector co-funding is primordial. Digital services have increasingly become a necessity for
+
+   households and yet remain out of reach for many segments of the population due to accessibility or
+
+   affordability. Reducing this digital divide by increasing coverage, lowering prices, improving service
+
+   quality, and providing mobile devices to the population—especially in underserved regions—can
+
+   significantly close the opportunities gap between population segments.
+
+
+
+   61.      Public funding of Component 3 is required given the challenges to scale up DATs in terms of
+
+   capital needs, coordination among stakeholders, and access to data. The development of foundational
+
+   data infrastructures and acceleration of digital agricultural technologies can enable the delivery of farm-
+
+   level, geospatial, and real-time analytics to inform policies and targeted investments by governments,
+
+   agribusinesses, and intermediary service providers. However, scaling up digital agricultural technologies
+
+   involves generating and accessing large-scale national data sets, a costly challenge for any individual
+
+   market player. Even when data sets are affordable, they are not accessible or shareable across silos, and
+
+   private-sector players lack incentives to share private data sets with the broader ecosystem. Public
+
+   interventions are thus needed, especially given that certain types of data have strong public goods
+
+   components and rely on substantial up-front investments in data capture and analytics infrastructures
+
+   that the private sector may be unwilling to subsidize. Public financing to support, enable, and develop the
+
+   innovation ecosystem for digital agriculture also addresses classic coordination failures and offers longer-
+
+   term sustainability returns for both the private sector as well as farmers.
+
+
+
+
+
+   reach more than 1.4 million farmers in both countries. The projects in question are Kenya National Agricultural and Rural
+
+   Inclusive Growth Project (NARIG, P153349) - US$200 million; Kenya Climate-Smart Agriculture Project (KCSAP, P154784) -
+
+   US$250 million; and Uganda Agriculture Cluster Development Project (ACDP) - US$150 million.
+
+
+
+
+
+
+
+                                                                                                                           Page 41 of 92
+
+
+The World Bank
+
+Acceleration of the Digital Transformation of Cameroon Project (P173240)
+
+
+
+
+
+
+
+   62.     Component 3 has potential synergies with the work and investments of the International
+
+   Finance Corporation (IFC) in Cameroon. In line with this project and building on its current portfolio, IFC
+
+   plans to step up support to the private agriculture sector, including tools such as rural finance, crop
+
+   insurance, and warehouse receipts. The World Bank will build on this project along with IFC on future
+
+   Advisory Services and Analytics to support private investment in agriculture. IFC will continue supporting
+
+   agriculture finance, in particular through its investments in Banque Internationale du Cameroun pour
+
+   l’Epargne et le Crédit (BICEC) and SFC Agri RSF (Risk Sharing Facility established by BICEC), which have
+
+   been financing credit lines to farmers while strengthening value chains and competitiveness. Under
+
+   Subcomponent 3.3, the World Bank will leverage IFC’s expertise to provide a matchmaking program
+
+   (previously done through TechEmerge) that connects companies worldwide with leading organizations in
+
+   emerging markets.
+
+
+
+   63.      The project complements existing programs run by partner organizations that support
+
+   agricultural development in Cameroon. The International Fund for Agricultural Development financed
+
+   several activities with a similar focus on digital innovation and youth, including the Program for the
+
+   Promotion of Agropastoral Youth Entrepreneurship, the Commodity Value Chain Support Project, and the
+
+   Aquaculture Entrepreneurship Promotion Project. The African Development Bank is another potential
+
+   partner for livestock and fish farming value chains (Livestock and Fish Farming Value Chains Development
+
+   Project through the Agricultural Value Chain Development Project. Other partners include the French
+
+   Development Agency (Agence Française de Développement, AFD), the Japan International Cooperation
+
+   Agency (JICA), and the German International Cooperation Agency (Deutsche Gesellschaft für
+
+   Internationale Zusammenarbeit, GIZ). AFD carried out a program for the development of vocational
+
+   training in the agricultural, livestock, and fishing sectors and the Improvement of the Competitiveness of
+
+   Agricultural Family Farming Program. JICA invests heavily in the rice sector through the Project for the
+
+   Development of Irrigated and Rainfed Rice Cultivation, and GIZ operates the green innovation centers for
+
+   the Agriculture and Food Sector project. The project could also collaborate with the ongoing World Bank-
+
+   financed Rural Electricity Access Project for Underserved Regions (P163881) to increase productive uses
+
+   of energy in agriculture.
+
+
+
+     F.      Lessons Learned and Reflected in the Project Design
+
+
+
+   64.      A focused approach to materialize the transformative impact of digital services in one sector
+
+   only is more efficient than a broad approach across several verticals. A broad approach that would tackle
+
+   the digital transformation of several sectors at once would spread out resources, complicate coordination,
+
+   and likely produce fewer results. Comparable projects, such as the Safe Schooling and Distance Education
+
+   Project (P173997) in Turkey and the Côte d’Ivoire E-Agriculture Project (P160418), have focused their
+
+   efforts on one sector in addition to the foundational digital/ICT sector. Through Component 3, the
+
+   proposed project focuses solely on the digitalization of the agricultural sector and aims to use this vertical
+
+   as a proof of concept to later extend the intervention to other sectors that could benefit from digital
+
+   transformation.
+
+
+
+   65.    While focused in terms of socioeconomic sectors addressed, the approach still must be
+
+   comprehensive on both the supply and demand sides. The project draws on the World Bank’s vast
+
+   experience in digital infrastructure investments and telecom market reform, as well as on a growing body
+
+
+
+
+
+
+
+                                                                                                          Page 42 of 92
+
+
+The World Bank
+
+Acceleration of the Digital Transformation of Cameroon Project (P173240)
+
+
+
+
+
+
+
+   of industry research around factors that affect digital access.84 Building on an analysis of Cameroon’s
+
+   broadband value chain, including gaps in the enabling environment and bottlenecks on the supply and
+
+   demand sides, the project’s design reflects lessons learned from many other countries85 that point to the
+
+   need for a comprehensive intervention that tackles all digital access barriers: the legal and regulatory
+
+   framework, broadband connectivity, affordable mobile devices and data packages, digital literacy, and the
+
+   availability of relevant content. Areas financed by the project such as device affordability will draw on
+
+   research conducted with partners, such as GSMA, Facebook Connectivity, and A4AI; smartphone subsidy
+
+   schemes used in Ghana, Columbia, and Malaysia;86 and asset-backed guarantee schemes for smartphones
+
+   trialed in Argentina,87 Pakistan,88 and India.89
+
+
+
+   66.      Digital inclusion should be fully embedded in the approach to ensure that the poorest and most
+
+   marginalized benefit from digital services. Proactive interventions are needed to ensure that digital
+
+   services are affordable and accessible to the poorest and most marginalized citizens to empower them
+
+   with significant opportunities and benefits. Without such interventions, only those already at the top of
+
+   the pyramid will benefit, exacerbating inequality. The project aims to expand access to rural areas and
+
+   marginalized populations; lower the cost and increase the quality of internet services; and enable youth,
+
+   women, and people with disabilities to benefit from entrepreneurship opportunities and digital skills
+
+   training programs.
+
+
+
+   67.      High-level political commitment and proper coordination are even more crucial when ambitious
+
+   reforms and innovative approaches are undertaken. Given the scope of the project, the complexity of
+
+   the design, the breadth of the proposed reforms, and the number of governmental agencies involved, it
+
+   is crucial that strong political backing be secured at the highest levels and that a proper coordination
+
+   mechanism be put in place to ensure efficient implementation. The project aims to fulfill these two
+
+   conditions through a multitiered implementation arrangement (detailed in section III) that consists of a
+
+   steering committee, a technical committee, a Project Coordination Unit, and ad hoc departmental
+
+   committees. In addition, PBCs have been added to Component 1 to ensure reforms are implemented
+
+   efficiently—a lesson drawn from other projects such as the Digital Transformation for User-Centric Public
+
+   Services (P168425) in Tunisia.90 Finally, experiences show that ongoing training can improve awareness
+
+
+
+
+
+   84 The World Bank Group, World Development Report: Digital Dividends, 2016.
+
+   85 Nicaragua Rural Telecom (P089989), Madagascar Regional Communications Infrastructure Project (P094103), Tanzania
+
+   Regional Communications Infrastructure Program - Phase 3 (P111432), Uganda Energy for Rural Transformation Project
+
+   (P069996), and Papua New Guinea Rural Communications Project (P107782). The preparation of the project also benefited
+
+   from insight from the recent Côte d’Ivoire E-Agriculture Project (P160418).
+
+   86 In Ghana, the full price of the Huawei Ascend Y221 was reverse-subsidized in the form of voice and data services over a 12-
+
+
+
+   month period. Colombia allocated US$90 million in subsidies to low-income citizens for data and smartphones. Malaysia
+
+   launched a national program to encourage the youth to purchase 3G-enabled smartphones with a rebate on certain phones,
+
+   reducing the cost by 40 percent.
+
+   87 ‘Plan Mobile Internet Access’, offering a 12-month installment plan to 8 million citizens to switch from 2G feature phones to
+
+
+
+   4G smartphones.
+
+   88 Disbursement through partnerships with Tameer Bank, Telenor, and the Government of Punjab.
+
+   89 India’s microfinance institution-led model of offering 9 –12-month loans at 18–22 percent interest to low-income women
+
+
+
+   microentrepreneurs to purchase smartphones.
+
+   90 The Tunisia project used disbursement-linked indicators (DLIs), which are currently called performance-based conditions
+
+
+
+   (PBCs).
+
+
+
+
+
+
+
+                                                                                                                             Page 43 of 92
+
+
+The World Bank
+
+Acceleration of the Digital Transformation of Cameroon Project (P173240)
+
+
+
+
+
+
+
+   and reduce technical and administrative capacity gaps that hinder project implementation and that it is
+
+   crucial to achieving project outcomes.
+
+
+
+   68.       Public-sector funding or de-risking is needed to properly incentivize private telecom operators
+
+   to invest in areas that would otherwise remain excluded due to low profitability. The project’s
+
+   connectivity elements leverage lessons learned from a comparative analysis of over 70 last-mile
+
+   connectivity deployments91 with respect to low-cost models and best practices to crowd in the private
+
+   sector’s participation. Following the MFD approach, the project will seek to establish a PPP framework
+
+   with competitive awards of capital subsidies to private telecom operators, a mechanism that was utilized
+
+   successfully for rural connectivity investments in Tanzania and Niger. This tender mechanism ensures that
+
+   public resources are utilized only to meet the minimum subsidy required for private-sector operators to
+
+   roll out infrastructure and services in rural areas considered too risky or with an average revenue per user
+
+   too low for a purely private investment.
+
+
+
+   69.       Data-driven agriculture management information systems for digital agriculture are an
+
+   important driver of improved public policy decisions. The project will support building digital data-driven
+
+   agriculture management information systems focused on agropastoral statistics, cultivable soil systems,
+
+   and livestock animal health. Experiences from other World Bank projects demonstrate improved policy
+
+   decisions when such management information systems were used. For example, a World Bank-supported
+
+   project in Uruguay92 ensured the protection of soil quality and 100 percent traceability of cattle through
+
+   a national information system that monitored fertilizer application and by using another national system
+
+   for livestock information that uses GPS-enabled chips as well as livestock producer registry. Another
+
+   example of an efficient soil management system is EthioSIS, which uses remote sensing and satellite
+
+   technology to create a digital map of the country’s soil. Based on these data, Ethiopia has revamped its
+
+   fertilizer recommendations and farmers are applying tailored blends that are scientifically proven to
+
+   provide the greatest yields in their specific geographies with the least environmental impact.93 Livestock
+
+   and animal health management systems are emerging as a critical tool for public policy making, especially
+
+   in the context of widespread animal epidemic outbreaks worldwide.
+
+
+
+   70.     E-vouchers for farm input subsidies can lead to productivity gains. The proposed project will
+
+   implement a time-limited e-voucher to encourage the expanded use of improved inputs. The project
+
+   design includes the provision of training and information to ensure that farmers can make good decisions
+
+   about the use of these inputs both during and after the project. Experiences in Tanzania (P114291)94 and
+
+   Uganda (P145037) have shown that a program of time-limited, diminishing vouchers for inputs can be
+
+   effective in the short run at rapidly lifting production and encouraging farmers’ input purchase behavior,
+
+   thereby sustaining the outcomes after the grant scheme has concluded. A recent and comprehensive
+
+
+
+
+
+
+
+
+
+   91 The World Bank. 2018. Innovative Business Models for Expanding Fiber-Optic Networks and Closing the Access Gaps.
+
+   92 Project Appraisal Document, Sustainable Management of Natural Resources and Climate Change (P124181)
+
+   93 For the past 30 years, farmers have followed a blanket recommendation of 100 kg of diammonium phosphate and 100 kg of
+
+
+
+   urea.
+
+   94 National Agricultural Input Voucher Scheme launched in 2007/08 with funding from World Bank;
+
+
+
+   http://documents1.worldbank.org/curated/en/643531468128966508/pdf/878190ESW0whit0al0Report0March02014.pdf
+
+
+
+
+
+
+
+                                                                                                                     Page 44 of 92
+
+
+The World Bank
+
+Acceleration of the Digital Transformation of Cameroon Project (P173240)
+
+
+
+
+
+
+
+   study of African input subsidies95 demonstrates that subsidies provide a quick yield response and are
+
+   visible and powerful political tools. The project will also support building private sector-led distribution
+
+   networks rather than replacing them or crowding them out—an unintended consequence of many other
+
+   types of schemes for input use expansion.96
+
+
+
+   71.     Strengthening digital innovation and entrepreneurship is effective in building sustainable agri-
+
+   food systems. Kenya’s One Million Farmer Platform (NARIG [P153349] and KCSAP [P154784]) has
+
+   demonstrated the model for sourcing local agricultural innovations to achieve project outcomes.97 The 14
+
+   selected startups and innovative projects have delivered the outcomes of NARIG (P153349) and KCSAP
+
+   (P154784) projects to 52,000 farmers in the past year and are set to reach 250,000 farmers in the coming
+
+   year. Following Kenya’s example, Uganda (P145037) has also conducted a challenge competition and is
+
+   onboarding selected agricultural startups and innovations in the ACDP.98 This accelerator-based approach
+
+   builds sustainability and resilience as it develops the entrepreneurial capacity and private sector capacity
+
+   to address the agri-food system’s challenges.
+
+
+
+   72.      The project integrates some of the lessons learned from the ongoing agriculture projects in
+
+   Cameroon (Agriculture Investment and Market Development Project [Projet d’investissement et de
+
+   développement des marchés agricoles, PIDMA] and Livestock Development Project [Projet de
+
+   développement de l'élevage, PRODEL]) concerning matching grants. These lessons include the following:
+
+   (a) effective links between suppliers and buyers/market demand are necessary conditions for the project’s
+
+   success; (b) the technical, financial, organizational, and management capacities of beneficiaries are key to
+
+   satisfactory project performance; (c) selection criteria should include capacity, and they should be clearly
+
+   defined and publicly disseminated before the project’s implementation; and (d) implementing matching
+
+   grants requires considerable support from service providers during both preparation and implementation.
+
+
+
+     III.     IMPLEMENTATION ARRANGEMENTS
+
+
+
+     A.       Institutional and Implementation Arrangements
+
+
+
+   73.      The project will be implemented by MINPOSTEL, in close collaboration with MINEPIA, MINADER,
+
+   the Ministry of Economy, Planning and Land Planning (Ministère de l'Economie, de la Planification et de
+
+   l'Aménagement du Territoire, MINEPAT), and the Ministry of Social Affairs (Ministère des Affaires Sociales,
+
+   MINAS), as well as with sectoral agencies such as ART and ANTIC. Most of the activities under Components
+
+   1 and 2 will be under the direct supervision of MINPOSTEL, in collaboration with ART and ANTIC, while the
+
+   activities that fall under Component 3 will be implemented by MINEPIA and MINADER in collaboration
+
+
+
+   95 Jayne, T. S., and S. Rashid. 2013. “Input Matching Grant Programs in Sub-Saharan Africa: A Synthesis of Recent Evidence.”
+
+   Agricultural Economics.
+
+   96 World Bank, Chapter 3 - Smart Subsidies?
+
+
+
+   http://documents1.worldbank.org/curated/en/720751489776752023/122290272_201800290000052/additional/113592-PUB-
+
+   PUBLIC.pdf.
+
+   97 Kim, Jeehye, Parmesh Shah, Joanne Catherine Gaskell, Ashesh Prasann, and Akanksha Luthra. 2020. Scaling Up Disruptive
+
+
+
+   Agricultural Technologies in Africa. International Development in Focus. Washington, DC: World Bank. doi:10.1596/978-1-4648-
+
+   1522-5.
+
+   98 https://blogs.worldbank.org/nasikiliza/how-ugandas-tech-savvy-generation-z-transforming-its-agriculture.
+
+
+
+
+
+
+
+
+
+                                                                                                                        Page 45 of 92
+
+
+The World Bank
+
+Acceleration of the Digital Transformation of Cameroon Project (P173240)
+
+
+
+
+
+
+
+   with MINPOSTEL, as outlined in Table 4. MINAS is expected to play a role in ensuring that the social
+
+   commitments of the project are respected and implemented according to national guidelines. A PIU will
+
+   be set up at MINPOSTEL as outlined below and a PIM spelling out the institutional and implementation
+
+   arrangements in more details is being prepared through the Project Preparation Advance (PPA).99
+
+
+
+                                     Table 4. Implementation Roles and Responsibilities
+
+          Component                                    Subcomponent                                 Implementing Ministry",innovation,,,,"The passage describes the deliberate integration and scaling of digital innovations in agriculture, including data-driven agricultural information systems, GPS/remote-sensing technologies, e-vouchers, agritech startup challenges, and digital platforms. These are presented as innovative approaches being embedded into the project to address agricultural productivity, inclusion, and service delivery.",True,True,underclassified_innovation
+P178043,subcomponent,2.5,Dissemination and communication (US$8.9 million),0.30649042,not_innovation,[],unclear,unclear,explicit,"The subcomponent finances documentation, anonymization, dissemination, communication strategies, and an Open Data readiness assessment and catalog – all described as standard activities to protect budgets, increase trust, and publish data.","The described activities are routine dissemination, communication, and open‑data catalog creation, which are common practices in statistical capacity projects and lack evidence of a materially different technology, process, or institutional arrangement.",0.86,2.5,"54.     Activity 2.5.1 Document, anonymize, and disseminate. This subcomponent combines various
+
+   dissemination, communication, and outreach activities with the intention of securing more attention and
+
+   budget to these critical activities. This subcomponent finances the documentation, publication,
+
+   and dissemination activities for each of the main surveys (reported in
+
+
+
+   55.       Table 5) and statistical products financed by this project. Though these activities are an integral
+
+   part of the survey production cycle, they are included in a separate subcomponent so that they have
+
+   protected budgets and independent monitoring. This is a strategy to protect these final steps from cost-
+
+   overruns incurred earlier in the survey collection process which have, in the past, forced inadequate
+
+   dissemination. This activity will finance training for INE’s team both in the documentation and
+
+   anonymization of data and provide external support to guide the implementation of these approaches in
+
+   initial surveys collected under this project. Special attention will be paid to events and short reports with
+
+   data and analysis on vulnerability of population and private sector to climate change based on the data
+
+   collected in the different surveys.
+
+
+
+   56.     Activity 2.5.2 Communication strategy. In order to improve the value of INE’s products by
+
+   increasing trust in the institution and its work, this subcomponent supports the implementation of
+
+   communication strategies targeting two key groups: survey respondents to decrease non-response rates,
+
+   and users of data to increase use of products. This subcomponent finances communication activities
+
+   designed to increase response rates and public trust in INE and its surveys. INE’s communication strategy
+
+
+
+   24 Technical support will be provided for a subset of pre-census activities including the development of the census work plan;
+
+   multi-year budget and procurement plan; questionnaire design and tabulation plan; design of mechanisms to assess quality both
+
+   in field work (coverage and accuracy of data).
+
+
+
+                                                                                                                         Page 26 of 60
+
+
+The World Bank
+
+Angola Strengthening Statistical Capacity (P178043)
+
+
+
+
+
+
+
+   targeting respondents includes interviews for TV, radio and publicity in newspapers, social networks, TV
+
+   and radio ads, and the preparation of videos about ongoing field work. In certain parts of the country,
+
+   more traditional methods like flyers, posters, and distribution of merchandising will also be used. Press
+
+   releases and interviews about new data and survey results are part of the strategy to increase knowledge
+
+   of INE’s products among statistics users (financed under 2.5.1). The project will also finance the
+
+   preparation of the census communication strategy, though its implementation is outside the scope of this
+
+   project.
+
+
+
+   57.      Activity 2.5.3 Open Data. This subcomponent also includes a push toward Open Data and
+
+   improved sharing of indicators and microdata. The initial task of this activity will be the implementation
+
+   of the Open Data Readiness Assessment developed by the World Bank. This assessment will inform the
+
+   roadmap to adopt the Open Data initiative. This assessment includes interviews with key stakeholders
+
+   and an analysis of regulations on data dissemination. Based on the assessment's results, specific training
+
+   will be carried out, and a specific Open Data catalog will be designed. At the first stage of implementation,
+
+   the Open Data catalog will be populated by INE’s data production and the administrative records involved
+
+   in the pilot of Component 1 and will be published on INE’s website in the data platform financed under",possible_innovation,,,,"The passage introduces open-data practices, data anonymization, and a dedicated online data catalog/platform to improve access and sharing of statistical data. These represent potentially innovative approaches to data dissemination, but the text does not establish sufficient novelty to classify them definitively as innovation.",True,False,missed_innovation_signal
+P175295,component,6.0,Contingent Emergency Response Component (US$0 million: capitalized in an emergency),0.34497964,not_innovation,[],unclear,unclear,weakly_inferred,"The component would be capitalized by drawing on uncommitted funds under Components 1 to 5 and could be used for processing additional financing in an eligible emergency, governed by World Bank Policy on Investment Policy Financing (Rapid Response to Crises and Emergencies).","The contingent emergency response component follows an established World Bank policy for rapid reallocation of funds during crises. It does not introduce a materially different technology, process, institutional arrangement, financing mechanism, or policy beyond standard practice, so it is classified as not innovative.",0.85,6,"48.      The objective of this component is to support the GoM’s response in an eligible emergency. The
+
+   component will be governed by paragraph 12 of the World Bank Policy on Investment Policy Financing
+
+   (Rapid Response to Crises and Emergencies). If an eligible emergency is being declared, the GoM may
+
+   request the World Bank to reallocate project funds to support the response effort. The component would
+
+   be capitalized by drawing on uncommitted funds under Components 1 to 5. The component could also be
+
+   utilized for processing additional financing should funding for this become available due to an eligible
+
+   emergency.
+
+
+
+   Project Cost and Financing
+
+
+
+   49.     The proposed project will be implemented as an Investment Project Financing (IPF) over a 6-year
+
+   period. The total project cost is estimated at US$343 million comprising US$300 million equivalent from
+
+   IDA, US$38 million from MEFA-MDTF (from planned contributions from the Kingdom of Norway and the
+
+   Kingdom of Sweden, of which US$2 million is available)Table 1, and US$5 million from the CCF. The
+
+   breakdown of project costs and total financing is presented in Table 1.
+
+
+
+
+
+
+
+
+
+                                                                                                      Page 25 of 91
+
+
+The World Bank
+
+Sustainable Energy and Broadband Access in Rural Mozambique Project (P175295)
+
+
+
+
+
+
+
+                                Table 1. Project Costs and Financing (in US$, millions)
+
+                                                                                          MEFA-
+
+                             Component                                  IDA       CCF               Total
+
+                                                                                          MDTF
+
+    1. On-grid Peri-urban and Rural Grid Electrification                205                35        240
+
+    2. EDM operational performance                                       30                           30
+
+         2a: Improvement of EDM operational performance                  20                           20
+
+         2b: Energy efficient lighting                                   10                           10
+
+    3. Off-Grid electricity access and clean cooking solutions           45         5                 50
+
+         3a: Off-Grid solutions for electricity access                   35                           35
+
+         3b: Clean Cooking Solutions                                      5         5                 10
+
+         3c: IDPs, resettlements and host communities                     5                            5
+
+    4. Broadband Access for Underserved Areas and Target Groups          10                           10
+
+    5. Technical Assistance and Implementation Support                   10                 3         13
+
+        5a. Technical Assistance to MIREME                               2                  3         5
+
+        5b. Technical Assistance and Implementation Support to           3                            3
+
+        FUNAE
+
+        5c. Technical Assistance and Implementation Support to EDM       4                            4
+
+        5d. Technical Assistance to MTC                                  1                            1
+
+    6. Contingent Emergency Response Component                           0                            0
+
+    Total                                                               300         5      38        343
+
+
+
+
+
+    C.      Project Beneficiaries
+
+
+
+   50.     The proposed project will directly benefit over 3.6 million Mozambicans. Beneficiaries include
+
+   households, smallholder farmers, business, health and education facilities, resettlement camps, and IDPs
+
+   in the peri-urban, rural, and deep rural areas serviced through new or improved electricity and/or
+
+   broadband access, and clean cooking solutions leveraging both public and private delivery modalities.
+
+
+
+   51.      For households and enterprises, the project will provide around 400,000 connections through grid
+
+   electrification and will incentivize the commercialization of SHSs in selected areas of the country through
+
+   the RBF being developed under ProEnergia which will add around 70,000 connections. On the broadband
+
+   side, about 580,000 people will be provided new broadband coverage, and 200,000 households will
+
+   benefit from cleaner cooking solutions (880,000 people). It is expected that about 25,000 households of
+
+   IDPs and host communities affected by the conflict in Cabo Delgado benefit from access to OGS solutions.
+
+   The existence of health and education facilities will be prioritized in the identification of the project
+
+   implementation areas within EDM´s distribution expansion plan. Broadband coverage will be provided to
+
+   a subset of the same health and education facilities. The project will help close gender gaps in energy and
+
+   broadband including support to women’s employment, vocational trainings for livelihood creation for
+
+   females, training of male gender champions, and empowering of women through ensuring that women
+
+   are participating in decision-making committees as it relates to energy/broadband solutions.
+
+
+
+   52.     Government agencies (MIREME, EDM, FUNAE, and MTC) will also benefit from the activities of
+
+   capacity building, technical assistance, and implementation support. These activities are expected to
+
+   improve their planning, technical, fiduciary, and institutional capacity to deliver and support the
+
+
+
+
+
+                                                                                                       Page 26 of 91
+
+
+The World Bank
+
+Sustainable Energy and Broadband Access in Rural Mozambique Project (P175295)
+
+
+
+
+
+
+
+   electrification and broadband agenda of Mozambique. The coordinated deployment of electricity and
+
+   broadband services will yield additional benefits through several channels: (a) for consumers, it will
+
+   provide the platform for e-payment options for electricity services and incremental payments for
+
+   equipment; (b) for distributors and developers of solar home systems and mini grids, it will provide
+
+   opportunities to expand business models (for example, PAYGO) and ease system monitoring, operation,
+
+   and use of digital payment platforms and can provide an anchor customer – a large source of electricity
+
+   demand typically with high ability to pay for energy use – for mini grids; (c) for EDM, it will support the
+
+   expansion of advance metering infrastructure through increased access to communication services
+
+   (including under PERIP); and (d) for FUNAE, it will help monitor the performance of off-grid systems
+
+   supplied to public facilities under Component 3. The subsidies will also be used to persuade private sector
+
+   operators to invest in solar panels, rather than diesel, for cellular base stations, and generate additional
+
+   power for charging cell phones.
+
+
+
+    D.      Results Chain
+
+
+
+   53.     The theory of change underpinning the proposed project is presented in Figure 4.
+
+
+
+   54.     Achievement of project objectives could be dependent on the following factors:
+
+
+
+           (a)   A sound policy framework to support the expansion of access to electricity services. This
+
+                 includes the GoM’s continued support to the NES and clean cooking agenda and an adequate
+
+                 regulatory framework (such as an appropriate tariff structure and adequate tariff awards to
+
+                 ensure that EDM has adequate funds for O&M).
+
+           (b)   Electricity supply will need to keep pace with demand to avoid deficits compromising service
+
+                 reliability.
+
+           (c)   The GoM needs to be committed to ensuring that electricity consumed by public agencies is
+
+                 budgeted and paid for.
+
+           (d)   Private sector is able and willing to expand broadband infrastructure and services in
+
+                 response to incentives.
+
+
+
+
+
+
+
+
+
+                                                                                                        Page 27 of 91
+
+
+The World Bank
+
+Sustainable Energy and Broadband Access in Rural Mozambique Project (P175295)
+
+
+
+
+
+
+
+
+
+                              Figure 4. Theory of Change of the Proposed Project
+
+
+
+
+
+
+
+
+
+                                                                                   Page 28 of 91
+
+
+The World Bank
+
+Sustainable Energy and Broadband Access in Rural Mozambique Project (P175295)
+
+
+
+
+
+
+
+    E.      Rationale for Bank Involvement and Role of Partners
+
+
+
+   55.      From its global experience, the World Bank is well positioned to convene development partners
+
+   and effectively leverage investment and technical assistance support incorporating the best practices. The
+
+   scale of the challenges and the resources needed to transform Mozambique’s power sector and achieve
+
+   universal access to electricity by 2030 calls for an integrated, long-term support program, well beyond the
+
+   capacity of one institution. Coordinated, strategic, and well-sequenced donor support is critical to achieve
+
+   scale and maximize added value. The World Bank is in a unique position to provide the needed expertise
+
+   and the neutral advice, remain involved in the long term, and gain buy-in and support from the
+
+   Government at the highest level. The World Bank supported the development of the NES in an extensive
+
+   consultative process with power sector stakeholders and GoM authorities and has leveraged US$153
+
+   million under ProEnergia in support of the Programa Nacional de Energia para Todos, and donors have
+
+   expressed intent to continue support to the program.
+
+
+
+   56.     The World Bank draws on its decades-long experience to support Mozambique in its endeavor to
+
+   accelerate increased electricity access. The World Bank has supported on-grid and off-grid solution
+
+   development in other Sub-Saharan African countries, including Zambia, (Electricity Service Access Project
+
+   [P162760]), Niger (Electricity Access Expansion Project [P153743] and Niger Solar Electricity Access Project
+
+   [P160170]), Ethiopia (Ethiopia Electrification Program [P160395]), and Kenya (Electricity Modernization
+
+   Project [P120014] and Kenya Off-grid Solar Access Project for Underserved Counties [P160009]).
+
+
+
+   57.      The World Bank is well positioned to support the GoM’s aspirations to bring universal coverage
+
+   of digital services to its citizens. The World Bank has been supporting this agenda for several decades
+
+   across the six global regions, including through investments under the MEGCIP39 which closed in 2017 and
+
+   the Mozambique Digital Economy Diagnostic40 completed in 2019. The rural broadband and digital device
+
+   affordability activities are intended as pilots for potential scale-up under the pipeline Mozambique Digital
+
+   Acceleration Project (P176459) for delivery in FY23, which will aim to expand access to broadband for
+
+   individuals, business, and government and to enable digital transformation in strategic economic and
+
+   social sectors.
+
+
+
+   58.      In the case of broadband, there is a strong rationale for public funding of the project, given the
+
+   public goods nature of the benefits derived from the project and the potential to increase overall
+
+   inclusion. While access to digital infrastructure has been considered important for some time, the
+
+   emergence of the COVID-19 crisis has turned it into a necessity and has created the need to accelerate
+
+   the rollout of the network in a major way and without further delay, partnering with the private sector as
+
+   much as possible. By targeting underserved areas, the project would bring valuable economic and social
+
+   benefits to a portion of the population of Mozambique, which would otherwise remain excluded without
+
+   public intervention. This population is defined by low capita incomes, low average revenue per user, and
+
+   limited private infrastructure and services offerings in low density and remote rural areas.
+
+
+
+   59.    The proposed project represents a coordinated effort from development partners to support the
+
+   National Energy for All Program. The Governments of Norway and Sweden have expressed interest in
+
+
+
+   39  Regional Communications Infrastructure Program Phase 3 (APL3): Mozambique E-Government And Communications
+
+   Infrastructure Project (MEGCIP) (P111432)
+
+   40 https://thedocs.worldbank.org/en/doc/833211594395622030-0090022020/original/MozambiqueDECA.pdf
+
+
+
+
+
+
+
+
+
+                                                                                                         Page 29 of 91
+
+
+The World Bank
+
+Sustainable Energy and Broadband Access in Rural Mozambique Project (P175295)
+
+
+
+
+
+
+
+   continuing the collaboration on the electrification program through additional funds at a scale equivalent
+
+   to their previous contribution, approximately US$38 million combined, for a duration of six years. These
+
+   additional funds are expected to become available in 2022. Their contribution will scale up investments
+
+   in on-grid electrification (Component 1) as well as some capacity building for MIREME (Component 5a).
+
+   Other partners, notably the African Development Bank, European Commission and KFW, support the
+
+   program through complementary investments in network expansion and control systems, which will
+
+   facilitate the connections made under the proposed project.
+
+
+
+   60.     On the off-grid side, there are a total of 18 donor-funded programs from nine different
+
+   organizations (mostly EU and US based) currently being implemented in the country, with additional
+
+   support expected in the current year. The active programs support a wide range of initiatives including
+
+   the construction of mini grids, the establishment of RBF facilities, up-front grants, credit lines, revolving
+
+   guarantee funds, and technical assistance covering SHSs, use of electricity for productive uses, and clean
+
+   cooking solutions. However, the bulk of the donor support to the private sector did not start coming to
+
+   the sector until 2020 and the nascent off-grid sector in Mozambique still needs meaningful support to
+
+   promote the use of off-grid solutions in remote and rural areas and develop the emerging local sector.
+
+   The project will work closely with other partners to ensure coordination and identification of current gaps
+
+   to accelerate off-grid access,41 but will also support the coordination of the current fragmented funding
+
+   with the establishment of an electrification planning and coordination unit at MIREME.
+
+
+
+    F.           Lessons Learned and Reflected in the Project Design
+
+
+
+   61.     The project benefits from a long history of involvement of the World Bank, other donors, and the
+
+   private sector in electricity and broadband access projects, including ongoing projects in Mozambique.
+
+   Lessons learned to date from the implementation of ProEnergia will be incorporated in the design of the
+
+   on-grid and off-grid electrification components. The following lessons have informed the project’s design:
+
+
+
+               (a)    Electricity access expansion should be guided by a clear vision that is grounded on a least-
+
+                      cost approach to electrification planning. The proposed project follows the Government’s
+
+                      Programa Nacional de Energia para Todos launched in 2018. The Government strategy is
+
+                      based on geospatial least-cost planning and integrates grid, mini grid, and off-grid
+
+                      technologies with the goal to achieve universal electricity access by 2030. The project’s
+
+                      design responds to the investment needs identified in the NES and investment decisions
+
+                      follow geospatial least-cost analysis.
+
+               (b)    Citizen engagement and stakeholder engagement are critical success factors for access to
+
+                      clean energy and broadband services. For projects with direct impact at the household level,
+
+                      mechanisms for obtaining regular feedback and enhance awareness have a direct bearing
+
+                      on project outcomes. The proposed project therefore includes elements that focus on citizen
+
+                      engagement including: (i) a clear communications campaign before new connections are
+
+                      made, (ii) basic education and awareness creation on the use of electricity and clean cooking
+
+                      solutions, and (iii) continued dialogue across Government agencies to sustain political
+
+                      support.
+
+
+
+
+
+
+
+   41   See annexes 6 and 7 for more details on donor support, challenges, and gaps identified.
+
+
+
+
+
+                                                                                                            Page 30 of 91
+
+
+The World Bank
+
+Sustainable Energy and Broadband Access in Rural Mozambique Project (P175295)
+
+
+
+
+
+
+
+           (c)   The financial health of utilities should be considered in all access programs to ensure reliable
+
+                 and quality service provisions. The proposed project therefore seeks to balance the need for
+
+                 access expansion with EDM’s financial sustainability by funding capital expenditure (CAPEX)
+
+                 through grants and focusing on activities to improve the operational performance of EDM.
+
+                 The expansion of broadband access under the proposed project also allows EDM access to
+
+                 good-quality communication services to efficiently carry out its core activities for delivery of
+
+                 electricity service to its customers.
+
+           (d)   Bulk procurement of materials has yielded significant reductions in the cost of providing
+
+                 electricity services. One of the new arrangements used for ProEnergia is the procurement of
+
+                 the main materials in bulk, while the rest of materials are included as part of the installation
+
+                 contracts. The first phase of procurement has resulted in an average reduction of 40 percent
+
+                 in unit prices when compared with the projected prices and an overall saving of US$47
+
+                 million. The proposed project will consider the same arrangements, but it will reduce the
+
+                 materials purchased under this modality to the most advantageous to reduce procurement
+
+                 times.
+
+           (e)   Anchor loads in rural areas and prioritizing areas with medium-to-large-scale productive
+
+                 uses of electricity increases sustainability. Therefore, prioritizing the electrification of target
+
+                 areas based on potential demand from existing or planned agricultural loads to increase
+
+                 productivity will help offset the service delivery and O&M cost recovery through tariffs and
+
+                 could contribute to the sustainability of access programs (in particular, grid-based
+
+                 electrification in peri-urban and rural areas).
+
+           (f)   RBF has been demonstrated to be an effective approach to using public resources to
+
+                 incentivize the market and can be designed to fit the country context and market conditions.
+
+                 This has been proven effective in delivering solutions with predefined results in various
+
+                 countries for both electricity and clean cooking solutions (for example, in Bangladesh, China,
+
+                 Indonesia, Kenya, Lao People’s Democratic Republic, Mongolia, and Uganda). These
+
+                 mechanisms need to be accessible particularly to smaller enterprises to expand the depth
+
+                 and reach of markets. The proposed project therefore combines RBF with grants, targeted
+
+                 technical assistance to small enterprises, and credit enhancement support in a flexible
+
+                 manner.
+
+           (g)   The model used for expanding digital connectivity in rural areas has proven successful in the
+
+                 region, including successful programs in Tanzania, Malawi, and Madagascar. The model
+
+                 relies fully on the private sector for O&M, reducing sustainability concerns or further
+
+                 financial liabilities for the Government. A ‘national roaming’ provision will be included for all
+
+                 new infrastructure to allow subscribers of any mobile provider to connect to the towers at
+
+                 no additional surcharge. This will allow retail level competition, prevent wasteful duplication
+
+                 of infrastructure, and has been shown to stimulate user adoption more quickly, providing
+
+                 greater benefits to the local community while also improving the economics of deployment
+
+                 by stimulating greater revenue generating traffic.
+
+           (h)   IDPs require differentiated solutions and implementation arrangements that adequately
+
+                 reflect the fragility context. Appropriate quality product selection, distribution approaches,
+
+                 training and full engagement of beneficiaries and stakeholders, in addition to proper
+
+                 planning for risk mitigation, can help create effective safeguards to enhance project
+
+
+
+
+
+                                                                                                             Page 31 of 91
+
+
+The World Bank
+
+Sustainable Energy and Broadband Access in Rural Mozambique Project (P175295)
+
+
+
+
+
+
+
+                outcomes. Project design will be guided by the following principles: (i) addressing immediate
+
+                needs through early recovery activities, (ii) empowering local and national authorities for
+
+                leadership and oversight of delivery of services, (iii) engaging directly with partners on the
+
+                ground and instituting direct third-party implementation arrangements, and (iv) enhancing
+
+                the field presence of implementing agencies.
+
+
+
+    III.    IMPLEMENTATION ARRANGEMENTS
+
+
+
+
+
+    A.      Institutional and Implementation Arrangements
+
+
+
+   62.      MIREME, EDM, and FUNAE will be the implementing agencies with fiduciary oversight of project
+
+   activities expected to be implemented over six years. Project activities will be carried out by MIREME,
+
+   EDM, FUNAE, MTC, and INCM. MTC will be the executing agency for specific components related to
+
+   broadband access (Component 4 and Subcomponent 5d). To improve coordination, an Inter-Ministerial
+
+   Steering Committee, chaired by MIREME and comprising members from relevant agencies including the
+
+   Ministry of Economy and Finance, will be established to (a) provide overall policy guidance on all issues
+
+   related to the project; (b) facilitate coordination among implementing agencies, relevant sectors, and
+
+   agencies; and (c) ensure project alignment with the recipient’s other programs, especially ProEnergia, and
+
+   provide strategic direction, ensuring adequate coordination between the Project Implementation Units
+
+   (PIUs) and the line ministries and other agencies implementing portions of the project without carrying
+
+   fiduciary responsibilities.
+
+
+
+   63.      EDM will be the implementing agency for Component 1 and technical assistance under",possible_innovation,,,,"The project combines electricity and broadband deployment with approaches such as PAYGO solar systems, results-based financing, digital payment platforms, national roaming, and coordinated infrastructure use. These are innovative or potentially innovative implementation mechanisms in this context, but much of the text explicitly describes them as established or previously proven approaches rather than clearly novel innovations.",True,False,missed_innovation_signal
+P164665,subcomponent,2.1,Improving Efficiency in Service Delivery (US$9.09 million equivalent),0.2985162,possible_innovation,"['digital_data_technology', 'process_service_delivery']",explicit_novelty,pilot,explicit,"The text notes a ""piloting a technology‑based system for administration and management of the TERTDRIVE Program"" and describes TERTDRIVE as an ""innovative DVLA program""; similar pilots of mobile/web applications, chatbots and dashboards are also mentioned.","While many activities are routine capacity‑building and digitisation, the explicit reference to piloting a technology‑based system labelled as innovative (TERTDRIVE) and the rollout of new digital platforms (mobile apps, chatbots, dashboards) provide evidence of a materially new digital/process approach, albeit at pilot stage. The overall evidence is not strong enough to declare full innovation across the sub‑component, so a possible_innovation classification is appropriate.",0.71,2.1,"30.     This sub-component provides support to improve efficiency in the delivery of selected services by
+
+Selected Entities. This sub-component finances activities by the following entities to enable them to achieve the
+
+targeted improvements to improve access and reduce wait times. The activities to be financed will be
+
+implemented by each entity indicated:
+
+  a. Driver and Vehicle Licensing Authority (DVLA) - The sub-component will finance, for DVLA, capacity-
+
+      building activities including but not limited to:
+
+     1) Providing training to its staff and tracking organizational and individual performance, including (i)
+
+         identifying capacity gaps within DVLA and developing costed and sequenced training and capacity
+
+         development programs; (ii) training and knowledge-sharing to improve DVLA technical capabilities for
+
+         driver training, testing and licensing, and for vehicle inspection and registration; knowledge exchange
+
+         between DVLA stations to encourage implementation of common methodologies, service quality and
+
+         delivery standards; and (iii) tracking organizational and individual performance;
+
+
+
+                                                                                                               Page 20
+
+
+The World Bank
+
+Ghana: Public Sector Reform for Results Project (P164665)
+
+
+
+
+
+
+
+        2) Carrying out activities to optimize its services including reducing the time required to register vehicles
+
+           including (i) piloting a technology-based system for administration and management of the TERTDRIVE
+
+           Program45 in three regions of Ghana with the highest volume of potential clients; (ii) piloting and rolling
+
+           out a technology-based system for administering and managing the DVLA Mobile Service Project; (ii)
+
+           equipment modernization for provision of standardized services at highest-volume DVLA stations; and
+
+           (iii) reducing the time to register vehicles from six hours to two hours by streamlining vehicle inspection
+
+           and registration processes and systems;
+
+        3) Carrying out public outreach initiatives on DVLA services and business processes to enhance its capacity
+
+           to respond to client enquiries in a timely manner including periodic public sensitization programs and
+
+           activities on television, radio, print media and social/online media, on DVLA services, processes and
+
+           associated costs and capacity building for staff to respond to client enquiries timely; and
+
+        4) Developing and implementing a strategy and action plan to increase its revenue generated by the DVLA.
+
+
+
+     b. Ministry of Transport (MoT) - The sub-component will finance, for MoT, capacity-building activities
+
+        including but not limited to: (i) provision of a Transport Sector Data Management System including design
+
+        and implementation; and (ii) carrying out activities to facilitate timely payment of pension to retiring MoT
+
+        staff including administrative steps and processes to assist potential retirees to gather relevant records and
+
+        documents for submission to the CAGD Pensions Unit for processing.
+
+
+
+     c. Births and Deaths Registry (BDR) - The sub-component will finance, for BDR, capacity-building activities
+
+        including but not limited to:
+
+          1) Developing and implementing mobile and web-based applications and associated support to improve
+
+              its service delivery across the country; (a) including developing chatbots46 and micro-services; (b)
+
+              expedite registration of births and deaths; (c) generate public feedback; and (d) provide redress for
+
+              complaints;
+
+          2) Training its staff and volunteers on data collection methods, and analysis and associated skills;
+
+          3) Digitizing old records;
+
+          4) Providing means of transport for its field staff to register births and deaths;
+
+          5) Carrying out advocacy campaigns and creating awareness on its services to promote timely
+
+              registration of births and deaths; and
+
+          6) Improving organizational performance through developing and implementing strategies and action
+
+              plans to (a) increase BDR revenue collection through increase in the registration coverage by the BDR
+
+              and the introduction of non-cash payment systems for users; (b) reduce the stock of arrears pertaining
+
+              to pending unpaid invoices for goods and services as of June 30, 2018; and (c) facilitate timely payment
+
+              of pension to retiring BDR staff including administrative steps and processes to assist potential retirees
+
+              to gather relevant records and documents for submission to the CAGD Pensions Unit for processing.
+
+
+
+     d. Ministry of Local Government and Rural Development (MLGRD) - The sub-component will finance, for
+
+        MLGRD, capacity-building activities including but not limited to:
+
+
+
+
+
+45 TERTDRIVE is an innovative DVLA program to reach out to students in tertiary educational institutions to teach them how to drive and
+
+obtain driver’s licenses before the completion of their academic and professional studies.
+
+46 A computer program which conducts a conversation with a live user or customer through automated auditory or textual methods.
+
+
+
+
+
+
+
+                                                                                                                                Page 21
+
+
+The World Bank
+
+Ghana: Public Sector Reform for Results Project (P164665)
+
+
+
+
+
+
+
+       1) Carrying out activities to strengthen its Inspectorate Division, including (a) developing and
+
+          implementing a management dashboard to track MMDAs’ performance and enable online interaction
+
+          between MLGRD and MMDAs; and (b) collecting, collating and publishing MMDA performance
+
+          information such as revenues, expenditures, financial statements and service delivery statistics;
+
+       2) Developing and implementing web and mobile based applications to improve its services, its public
+
+          feedback and grievance redress mechanisms (GRM), and video-conferencing facilities; and
+
+       3) Improving organizational performance through developing and implementing strategies and action
+
+          plans to (a) support MMDAs to improve their revenues and improve their services; and (b) facilitate
+
+          timely payment of pension to retiring MLGRD staff including administrative steps and processes to
+
+          assist potential retirees to gather relevant records and documents for submission to the CAGD
+
+          Pensions Unit for processing.
+
+
+
+ e. Environmental Protection Agency (EPA) - The sub-component will finance, for the EPA, capacity-building
+
+    activities including but not limited to:
+
+      1) Designing and implementing a results-based M&E system covering (a) the design, installation and
+
+           implementation of an integrated environmental management system covering data collection,
+
+           storage, analysis, reporting and dissemination and (b) staff training in the use of the new integrated
+
+           environmental management system;
+
+      2) Improving environmental service delivery by designing, piloting, and implementing online and mobile
+
+           applications (including chatbots and micro-services) for: (i) issuance and renewal of environmental
+
+           assessment permits, and (ii) grievance redress and complaints handling, all for individuals and micro-
+
+           , small and medium enterprises (MSME) and (ii) training of staff.
+
+      3) Improving its organizational performance through developing and implementing strategies and action
+
+           plans to (a) increase its revenues; and (b) facilitate timely payment of pension to retiring EPA staff
+
+           including administrative steps and processes to assist potential retirees to gather relevant records and
+
+           documents for submission to the CAGD Pensions Unit for processing.
+
+
+
+ f.   Ministry of Environment, Science, Technology and Innovation (MESTI) - The sub-component will finance,
+
+      for MESTI, capacity-building activities including but not limited to:
+
+        1) Designing a results-based M&E system including development of functional requirements, technical
+
+           specifications, and draft bid documents;
+
+        2) Supporting programs for increasing the number of women and girls in education and careers in
+
+           science, technology, engineering and mathematics in collaboration with relevant entities;
+
+        3) Carrying out activities to facilitate commercialization of scientific outputs;
+
+        4) Developing and implementing a policy to promote innovation;
+
+        5) Promoting peer-based knowledge-sharing on the role of MESTI in catalyzing innovation;
+
+        6) Carrying out activities to facilitate timely payment of pension to retiring MESTI staff including
+
+           administrative steps and processes to assist potential retirees to gather relevant records and
+
+           documents for submission to the CAGD Pensions Unit for processing.
+
+
+
+ g. Passport Officer (PO) - The sub-component will finance, for the PO, capacity-building activities including but
+
+    not limited to:
+
+      1) Provision of equipment and systems to ensure faster issuance and renewals of passports;
+
+
+
+
+
+
+
+                                                                                                             Page 22
+
+
+The World Bank
+
+Ghana: Public Sector Reform for Results Project (P164665)
+
+
+
+
+
+
+
+        2) Designing and implementing web and mobile-based applications (including chatbots and micro-
+
+           services) and associated support to facilitate access to PO services and for client feedback and
+
+           complaints handling;
+
+        3) Conducting an independent review of the PO’s administrative structures and procedures including
+
+           policies, functions, staffing, business processes, ICT infrastructure, and resources, resulting in a costed
+
+           and sequenced Action Plan, to improve client access, transparency and efficiency and reduce
+
+           corruption;
+
+        4) Developing and implementing strategies and action plans to: (i) improve its services, subject to the
+
+           recommendations from the aforesaid review, and depending on business needs and resource
+
+           availability (by introducing higher fees for faster service) including by acquiring equipment and
+
+           systems; and (ii) reduce arrears pertaining to pending unpaid invoices for goods and services as of
+
+           June 30, 2018.
+
+
+
+ h. Ministry of Foreign Affairs and Regional Integration (MFA&RI) - The sub-component will finance, for
+
+    MFA&RI, capacity-building activities including but not limited to:
+
+     1) Designing and implementing an asset register and a management information system for
+
+         headquarters and Ghana Missions abroad;
+
+     2) Providing relevant training to MFA&RI staff including managers to operationalize its constitutional
+
+         mandate through: (i) capacity building of (a) the Legal and Consular Bureau and other relevant units
+
+         on maritime border issues including negotiations, and (b) the Policy Planning, Monitoring and
+
+         Evaluation, Administration, Finance and Estates Bureaux; (ii) high-performance leadership training for
+
+         Ministry Directors and (iii) training on client service for all officers;
+
+     3) Improving its M&E through developing manuals and guidelines; standardized data collection and
+
+         reporting templates and instruments; developing and implementing tools to track and assess
+
+         implementation of decisions and outcomes of international conferences, bilateral and multilateral
+
+         agreements signed and Memoranda of Understanding; and
+
+     4) Improving organizational performance through developing and implementing strategies and action
+
+         plans to (a) support MFA&RI agencies to increase their revenues and improve their services; and (b)
+
+         facilitate timely payment of pension to retiring MFA&RI staff including administrative steps and
+
+         processes to assist potential retirees to gather relevant records and documents for submission to the
+
+         CAGD Pensions Unit for processing.
+
+
+
+ i.   Ghana Immigration Service (GIS) – The sub-component will finance, for GIS, capacity-building activities
+
+      including but not limited to:
+
+        1) Conducting an independent review of the status and results of the implementation of ICT, HR
+
+            management, training and other organizational modernization programs and, on the basis of the
+
+            findings and recommendations of the said a review, undertaking activities to improve GIS’s efficiency
+
+            and accountability;
+
+        2) Acquiring the Information Security Management Certification ISO 9001;
+
+        3) Creating awareness on the services of the GIS including promoting direct public feedback and
+
+            complaints handling on its services, and strengthening client service;
+
+        4) Improving organizational performance through developing and implementing strategies and action
+
+            plans to (a) increase revenues generated by the GIS; and (b) facilitate timely payment of pension to
+
+
+
+                                                                                                                Page 23
+
+
+The World Bank
+
+Ghana: Public Sector Reform for Results Project (P164665)
+
+
+
+
+
+
+
+             retiring GIS staff including administrative steps and processes to assist potential retirees to gather
+
+             relevant records and documents for submission to the CAGD Pensions Unit for processing.
+
+
+
+    j.   Ministry of the Interior (MoI) - The sub-component will finance, for the MoI, capacity-building activities
+
+         including but not limited to:
+
+         1) Carrying out an independent review of the status and results of the implementation of ICT, HR
+
+             management, training and other organizational modernization programs and, on the basis of the
+
+             findings and recommendations of the said review, undertaking activities to improve MoI’s efficiency
+
+             and accountability;
+
+         2) Improving its organizational performance through client service, public feedback and complaints
+
+             handling; and
+
+         3) Developing and implementing strategies and action plans to (i) increase revenues generated by the
+
+             MoI and its agencies; and (ii) facilitate timely payment of pension to retiring MoI staff including
+
+             administrative steps and processes to assist potential retirees to gather relevant records and
+
+             documents for submission to the CAGD Pensions Unit for processing.",innovation,,,,"The passage includes several concrete innovative digital approaches, including technology-based mobile service delivery, chatbots and micro-services for public services, integrated environmental management systems, online grievance mechanisms, and the TERTDRIVE program explicitly identified as innovative.",True,True,underclassified_innovation
+P173813,subcomponent,1.1,"Case Detection, Confirmation, Contact Tracing, Recording, and Reporting. This sub-",0.31881082,possible_innovation,"['digital_data_technology', 'process_service_delivery']",new_to_context,early_adoption,weakly_inferred,"supports the development and rollout of digitally enabled solutions (e.g., mobile apps for health messages, digital maps for real‑time case visualization, telemedicine)","The project mentions creating and deploying new digital tools for surveillance and contact tracing, which could represent a novel service delivery approach in the local context, but the text does not explicitly claim novelty or provide clear evidence of material difference from existing practices.",0.62,1.1,"component will finance activities that strengthen disease surveillance and epidemiological capacity for early
+
+ detection and confirmation of cases and active contact tracing. This includes financing for (i) the development of
+
+ multisectoral plans and standard operating procedures and joint coordination (including all relevant ministries and
+
+ sectors), and logistics related to the implementation of preparedness and response activities using the One Health
+
+ approach; (ii) development and/or procurement, and deployment of tools and information and communication
+
+ technology (ICT) to support surveillance and contact tracing; (iii) strengthening public health emergency
+
+ management and community and event-based surveillance; (iv) support for epidemiological investigations, multi-
+
+ sectoral simulation exercises and strengthening of the GOC’s risk assessment capabilities; (v) rehabilitation of
+
+ screening posts/rooms at designated Points of Entry (POEs) and isolation sites; (vi) training and equipping of human
+
+ resources, including POE staff, contact tracers, and frontline healthcare and support workers; and (vii) equipment for
+
+ the functionality of emergency operations centers at the subnational level; (viii) support for the operation of the
+
+ testing sites. This sub-component will also cover costs related to the use of digital solutions to facilitate the response.
+
+ These include: (i) measures to increase bandwidth and manage congestion to prevent disruptions in internet
+
+ connectivity; (ii) provision of internet connectivity for government workers (for business continuity) making
+
+ healthcare consultations more accessible to remote communities, using alternative platforms (e.g., short message
+
+ service, telemedicine), and support for the development and rollout of digitally enabled solutions (e.g., mobile apps
+
+ for sending out health messages, digital maps to allow visualization of cases in real-time, call centers to provide
+
+ remote advice specific to COVID-19, etc.).",innovation,,,,"The passage describes concrete technology-enabled approaches for disease surveillance and response, including mobile health applications, real-time digital case mapping, telemedicine, SMS-based services, and remote COVID-19 advice through call centers. These go beyond routine health-system strengthening by introducing digital tools for real-time surveillance and service delivery.",True,True,underclassified_innovation
+P167543,subcomponent,3.3,Creating a digital data platform to enable access by rural populations to formal accounts and,0.4587862,possible_innovation,"['digital_data_technology', 'process_service_delivery', 'institutional_governance']",new_to_context,pilot,strongly_inferred,"Creation of a digital data platform with e‑KYC registry and alternative‑data credit scoring to enable financial inclusion of rural producers, described as a new mechanism for credit assessment in Niger.","The project proposes a novel digital platform that combines e‑KYC and alternative data credit scoring, which is not currently available in Niger, indicating a materially different service delivery and governance model, but the text does not explicitly label it as innovative, so classification is possible innovation.",0.78,3.3,"increase access to better-suited financial services (US$6.9 million). This sub-component aims at developing a data
+
+    platform on agricultural producers (farmers and livestock breeders) including an e-KYC registry to facilitate their
+
+    future access to additional financial services beyond payment services, in particular access to credit. The vast
+
+    majority of agricultural producers do not currently have an account in a financial institution (Bank or MFI) and
+
+    therefore do not access formal savings, credit or insurance services. Financial institutions have so far shown limited
+
+    interest in this segment of the population due in particular to lack of available and workable information which the
+
+    creation of this data platform is intended to fill. The project activities will enable and facilitate access to the mobile
+
+    money account for payment and money transfer services, the first step to financial inclusion, but producers' needs
+
+    go beyond. The creation of a data platform on producers will prepare this second step towards access to savings and
+
+    especially credit from financial institutions.
+
+42. Traditionally, credit history is based on data provided by lenders. While this method has been reliably used, it is
+
+    simply inadequate in the present day for Niger as it captures only information on thin segment of the populations
+
+    which has already access to credit
+
+43. The project intends to collect data of various types including information on: personal situation, agricultural and
+
+    non-agricultural activities including their geolocation (tool like Google plus addresses could be used), financial
+
+    transactions carried out on the Enterprise Resource Planning (ERP) system. The digital platform will work by
+
+    partnering with a network of digitally-enabled partners including mobile operators, farmers organizations with a
+
+    focus on women’s formal and informal organizations (including the VSLAs supported by NGO CARE), payment service
+
+    providers (banks, microfinance institutions, remittances providers) to collect information that could be used for
+
+    credit scoring.
+
+44. The collection of data with producers will be coordinated with the “Basic Biometric Identification System” activity
+
+    from the West Africa Unique Identification for Regional Integration and Inclusion Program (WURI, P161328)
+
+    supported by the World Bank in order to ensure that producers will already have a unique ID number that will be
+
+    associated with their data.
+
+45. The design of the data platform will be compliant with the national and WAEMU legal and regulatory provisions on
+
+    protection of personal data. In agreement with ANSI, the data platform will be hosted at the Central Bank (BCEAO).
+
+    The manager of the data platform, a separate entity, will have to be completely independent, present no conflict of
+
+    interest and shall comply with current data protection regulations and BCEAO requirements in order to ensure
+
+    confidence among financial services providers and other entities.
+
+46. Activity 3.3.1. Data collection will be done during the whole implementation of the project, but initial data collection
+
+    will be carried out by consulting firms to be recruited by the project in close collaboration with CAIMA retailers,
+
+    Maisons du paysans, agriculture cooperatives, CARE NGO, and the World Bank projects on safety nets and
+
+    agriculture. Based on a call for proposals, a firm (or several depending of capacities) will be recruited to collect data
+
+    in the villages and to train local authorities to continue this work at the end of the project to ensure sustainability.
+
+
+
+                                                                                                                Page 61 of 89
+
+
+       The World Bank
+
+       Niger: Smart Villages for Rural Growth and Digital Inclusion Project (P167543)
+
+
+
+
+
+    The firm will manage field staff that will be trained. The data collection will involve the local administrative and
+
+    traditional authorities who will help inform and sensitize producers to adhere to the project and share their data.
+
+47. Activity 3.3.2. Creation of a digital data platform, which will comprise a credit scoring system and e-KYC registry.
+
+    The project will hire firms to design the digital data platform. Before, a study will need to be done to identify and
+
+    assess existing platforms and apps and see how to build on these platforms. The credit scoring system will allow to
+
+    collect alternative data (personal and farm information, social network behavior, financial transactions done through
+
+    mobile money accounts and other platforms) to be used for credit scoring purposes and to help create better suited
+
+    financial products to the needs of rural populations. The e-KYC registry (detailed in Box 3) will allow to have
+
+    centralized KYC information on their customers and help financial institutions comply with Customer Due Diligence
+
+    (CDD) regulation which constitute a key component for compliance with Anti-Money Laundering and Combatting
+
+    the Financing of Terrorism (AML/CFT) requirements.
+
+                                                Figure 2: Digital data platform
+
+
+
+
+
+
+
+
+
+48. Activity 3.3.3. The project will also create simple apps so that users could themselves update their profile on their
+
+    cell phones.
+
+49. Activity 3.3.4. Interface of the data platform with participating financial institutions, and existing and to be created
+
+    platforms. Existing platforms to be connected to include participating financial institutions systems, mobile devices,
+
+    agriculture payments platforms (to be put in place under Sub-component 2) so that all data related to the purchase
+
+    of air time, mobile money transfers, purchase of inputs and selling of their products via mobile services.
+
+50. Activity 3.3.5. Technical support for the implementation of the digital data platform. This will include (i) the design
+
+    of algorithms for credit scoring that could be used by participating financial institutions; (ii) the training and on-
+
+    boarding of the participating financial institutions, BCEAO, the manager of the platform and other stakeholders; (iii)
+
+    the design of the business model to ensure financial viability of the platform, and supervisory frameworks for the
+
+    development of a data platform covering credit scoring and an e-KYC registry.
+
+ Box 4: Towards an e-KYC (Know-Your-Customer) registry
+
+
+
+ To facilitate the opening of accounts in financial institutions for financially excluded populations, this digital
+
+ data platform will host an e-KYC (Know-Your-Customer) registry. The registry will help financial institutions to
+
+ identify their customers and comply with Customer Due Diligence (CDD) regulation which constitute a key
+
+
+
+
+
+                                                                                                              Page 62 of 89
+
+
+      The World Bank
+
+      Niger: Smart Villages for Rural Growth and Digital Inclusion Project (P167543)
+
+
+
+
+
+component for compliance with AML/CFT requirements. Indeed, high costs incurred by complex and time-
+
+consuming KYC controls and diligences are often considered as main barriers to financial inclusion. These costs
+
+are likely to keep financial institutions from providing financial services to the disadvantaged population which
+
+may not be considered sufficiently profitable. Recognizing this critical issue, the G20 High Level Principles on
+
+Digital Financial Inclusion issued by the Global Partnership for Financial Inclusion (GPFI) in 2016 included the
+
+need to facilitate customer ID for digital financial services as a key pillar for financial inclusion under its principle
+
+7.
+
+
+
+The e-KYC platform intends to help authorities of Niger to comply with this principle, by designing and providing
+
+an e-KYC registry which will facilitate the ID process of customers (whether permanent of occasional, and
+
+whether natural or legal person), the verification of customer’s identity, and the implementation of on-going
+
+customer monitoring.
+
+
+
+In addition, supervisors will also take benefit of the information stored in the e-KYC registry which may facilitate
+
+their controls (on documentary fraud or suspicious activity reports for instance). This registry could lead the
+
+supervisors to adjust their internal procedures in terms of controls and propose legal amendments to the
+
+AML/CFT law if necessary, contributing therein to the implementation of an effective AML/CFT risk-based
+
+supervisory approach.
+
+
+
+From a technical point of view, this e-KYC registry may take different forms and will have to be adapted to the
+
+Nigerien context after considering the main conclusions issued by the WBG Policy Note on e-KYC registries that
+
+is currently being finalized, as well as knowledge about all potential tools existing on the market. However, as
+
+potential characteristics (provided below only as examples and close to the Indian model), the e-KYC registry
+
+could enable new clients to submit directly on the digital platform a dully filled and signed KYC form (with
+
+supporting documents to verify proof of identity and proof of address and potentially linked to digital ID) before
+
+being allotted via SMS or email a single digit KYC ID number (KIN) which would need to be quoted by the client
+
+while conducting any financial transaction. For existing clients, financial institutions could be able to submit
+
+directly on the platform the required documents using bulk upload or file transfer mechanisms. The technical
+
+modalities of access of the e-KYC registry by the financial institutions will have to be determined by the
+
+technological solutions’ provider.
+
+
+
+The e-KYC registry will be applicable in the first place only to individuals (population of Smart Villages) but could
+
+be extended to the entire population of Niger in the medium term. The authorities will have to define the
+
+business model of the e-KYC registry, as to whether it should be financially sustainable (charging fees for
+
+financial institutions or/and administrative or judicial authorities to access the data) or encourage financial
+
+inclusion through the covering by the national budget of the maintenance costs.
+
+
+
+According to a new regulation that will have to be adopted by the Minister of Finance before the creation of
+
+the e-KYC registry, the digital data platform held by ANSI will receive, store, safeguard and retrieve KYC records
+
+in a digital form for every client of financial institutions. The bidders will propose the best technological
+
+solutions for the defined problems and goals, enabling 1) an easy access to the platform by financial institutions;
+
+2) a high degree of flexibility to changes in functions, structure, integration with other systems; 3) use of
+
+standardized protocols and technologies; 4) an extensive capability for scaling; 5) a high level of performance
+
+in terms of data processing and analysis; and 6) a high level of data protection.
+
+
+
+
+
+
+
+
+
+                                                                                                                   Page 63 of 89
+
+
+      The World Bank
+
+      Niger: Smart Villages for Rural Growth and Digital Inclusion Project (P167543)
+
+
+
+
+
+Table 1.2: Linkages and synergies between Smart Villages and selected other programs in the WBG portfolio in Niger
+
+  Portfolio
+
+ project and                     Title                                    Potential synergies and links
+
+    code
+
+                                                        • Use of schools and universities in campaign to improve digital
+
+                                                          and financial literacy
+
+LIRE           Learning Improvement for Results in
+
+P168779        Education Project                        • Use of digital technologies in schools, for instance in access to
+
+                                                          open educational resources, web browsing etc.
+
+                                                        • Connectivity in previously unserved rural areas should help
+
+                                                          promote agricultural extension work and online access to
+
+                                                          training resources
+
+PIMELAN        Agricultural and Livestock
+
+                                                        • For farmers, access to enhanced digital payment services and
+
+P164509        Transformation Project
+
+                                                          better traceability of the digital financial transaction costs will
+
+                                                          help build better credit scoring and increase their access to
+
+                                                          credit
+
+                                                        • Provision of over-dimensioned solar base stations can provide
+
+                                                          community energy access in selected villages;
+
+NESAP
+
+                                                        • Availability of digital financial products will enable use of “pay
+
+P160170        Niger Solar Electricity Access Project
+
+                                                          as you glow” financing schemes for purchase of solar panels,
+
+                                                          including through digital centers.
+
+                                                        • Smart Village implementation will benefit from the “safe
+
+                                                          spaces” enabled under SWEDD, particularly in rural areas.
+
+SWEDD
+
+               Sahel Women's Empowerment and
+
+P163656                                                 • Enhanced connectivity and improved access to digital financial
+
+               Demographics Project
+
+                                                          services in rural areas will drive female entrepreneurship.
+
+                                                        • The « Maisons du Paysan » established under PACRC will serve
+
+                                                          as physical points for financial and education programs
+
+PACRC          Community Action Project for Climate
+
+                                                        • Enhanced connectivity in rural areas will enable better access
+
+P125669        Resilience
+
+                                                          to weather data, including advanced warning of extreme
+
+                                                          weather events.
+
+                                                        • Provision of internet connectivity in rural areas will facilitate
+
+               West Africa Unique Identification for      digital ID enrollment and data sharing.
+
+WURI
+
+               Regional Integration and Inclusion
+
+P161328                                                 • Digital ID will in-turn be used for more secure opening of
+
+               Program
+
+                                                          financial accounts in banks and microfinance institutions
+
+                                                        • Interconnection between the data platform (e- KYC registry
+
+                                                          and credit scoring) envisaged under Smart Villages and the
+
+                                                          20,000 farmers already registered under PASEC will provide
+
+PASEC          Climate Smart Agriculture Support          for enhanced financial infrastructure systems.
+
+P153420        Project
+
+                                                        • Enhanced connectivity in rural areas will enable better access
+
+                                                          to weather data, including advanced warning of extreme
+
+                                                          weather events.
+
+
+
+
+
+
+
+
+
+                                                                                                                        Page 64 of 89
+
+
+       The World Bank
+
+       Niger: Smart Villages for Rural Growth and Digital Inclusion Project (P167543)
+
+
+
+
+
+                                                         • Young people in rural areas targeted under the PRODEC
+
+                                                           program would also benefit from priority engagement in
+
+                                                           financial education programs for mobile money;
+
+PRODEC          Skills Development for Growth Project
+
+P163467         Additional Financing                     • Improved digital coverage in rural areas will help young
+
+                                                           entrepreneurs develop and market products, including
+
+                                                           through eCommerce applications.
+
+                                                         • The PCDS PIU is acting as a transitory PIU for the
+
+                                                           implementation of the PPA for Smart Villages;
+
+
+
+PCDS            Private sector capacity and              • Improved access to digital financial services should make
+
+P145261         performance for service delivery           payment of civil service salaries by mobile money viable;
+
+                                                         • Improved connectivity in rural areas will facilitate delivery of
+
+                                                           public services.
+
+                                                         • Digitization of social safety net payments should reduce
+
+                                                           transaction costs and improve efficiency;
+
+Projet Filets
+
+                Social Safety Nets                       • Providing an addition 1.2 million people in rural areas with
+
+Sociaux
+
+                                                           connectivity will greatly improve the coverage of the social
+
+                                                           safety net payments.
+
+                                                         • The Smart Villages project will allow to implement
+
+                                                           recommendations under the FIRST program to improve digital
+
+                                                           financial inclusion for farmers and women.
+
+FIRST
+
+                Improving Access to Financial Services
+
+P159431                                                  • The 1.2m people to receive digital services under Smart
+
+                                                           Villages will be able to access digital financial services for the
+
+                                                           first time.
+
+Note: This is an indicative but not exhaustive list.
+
+
+
+
+
+
+
+
+
+                                                                                                                        Page 65 of 89
+
+
+       The World Bank
+
+       Niger: Smart Villages for Rural Growth and Digital Inclusion Project (P167543)
+
+
+
+
+
+
+
+                                          ANNEX 2: Economic and Financial Analysis
+
+
+
+1. The scope of the connectivity activity in Component 2 (i.e. extending digital connectivity to targeted rural areas)
+
+   involves the construction of a digital infrastructure in the rural and remote parts of Niger to cover the targeted
+
+   villages. According to the ANSI, there are around 500,000 inhabitants in the 2,111 targeted villages that are not
+
+   covered by any mobile signal. The construction of the digital infrastructure will allow for an important expansion in
+
+   the provision of mobile telephony services and mobile broadband services to citizens and smallholders. This is
+
+   particularly crucial in closing the gender gap in mobile phone ownership/ usage, where women are not covered by
+
+   mobile signal in their home/village but are not allowed to leave it.
+
+2. The financial and economic analysis of the project is based on the incremental approach37. All cash flows are stated
+
+   in constant US$. The reference period is set equal to the standard lifecycle period for a digital infrastructure (i.e. 20
+
+   years) and thus no residual value is considered at the end of the reference period.
+
+
+
+3. Component 2 – The project is viable financially and economically
+
+     a. The results for the project without public capital support are: (i) the Financial Rate of Return FRR(C) is 7 percent;
+
+        (ii) the break-even point occurs in 15 years; and (iii) the NPV is -US$22.7 million (with a discount rate of 10
+
+        percent). These results show that although FRR(C) is positive, telecommunication operators would not invest in
+
+        this project alone because it would not provide the minimum rate of return that private mobile operator
+
+        companies usually expect (around 12 to 16 percent depending on the socio-economic context). Therefore, public
+
+        Government financing is needed to make the project possible.
+
+     b. The results for the project with public capital support are: (i) the Financial Rate of Return FRR(K) is 14 percent;
+
+        (ii) the break-even point occurs in 12 years; and (iii) the Net Present Value NPV(K) is US$23.8 million (with a
+
+        discount rate of 10 percent). These results show that the project becomes acceptable for private operators.
+
+        Moreover, the fact that after taking into account the public capital, the Financial Rate of Return FRR(K) is in the
+
+        average of the expected rate of return for standard mobile telecommunications projects and that the break-
+
+        even point occurs in the long-term (12 years) show that the public capital support is not over-proportionate.
+
+     c. Although last-mile operators were consulted in advance, there is a high level of uncertainty with regards to the
+
+        revenues that will be generated by the infrastructure. This is acknowledged in the design of the project, which
+
+        requires the inclusion of a claw-back mechanism into the PPP contract that would apply in case revenues are
+
+        higher than originally foreseen.
+
+     d. A sensitivity analysis is performed on the assumptions for the supply-side (unit cost of a site and OPEX as a
+
+        percentage rate of CAPEX), the demand-side (penetration rate and ARPU), and the discount factor. It shows that
+
+        the business model is sensitive to the assumptions and could be overly profitable, thus reinforcing the need of a
+
+        claw-back mechanism.
+
+     e. The economic analysis can be performed on a macroeconomic level (estimate the local GDP growth generated
+
+        by additional mobile and broadband users) or a microeconomic level (such as household consumer surplus or
+
+        time and cost savings derived from the use of online services). However, the economic analysis cannot be
+
+        performed by using these methods due to: (i) the coverage expansion areas (white zones) being scattered rather
+
+
+
+
+
+37
+
+  Also called the relevant cost approach, marginal analysis or differential analysis, the incremental approach focused only on the
+
+extra costs and revenues generated by the project and disregards any other non-relevant sunk cost that will be incurred whether
+
+the project takes place or not.
+
+
+
+                                                                                                                      Page 66 of 89
+
+
+           The World Bank
+
+           Niger: Smart Villages for Rural Growth and Digital Inclusion Project (P167543)
+
+
+
+
+
+            than consisting in one single administrative area; and (ii) a lack of local data for the target areas (such as local
+
+            GDP and local travel time and cost).
+
+        f. Because of the lack of socio-economic data at the local level, the economic analysis is limited to two direct
+
+           measurable effects, namely the extra fiscal revenue earned by the Government thanks to the project and the
+
+           local salaries paid to local staff to ensure the maintenance and security of staff. The extra fiscal revenue is limited
+
+           to the VAT at a 19 percent rate, and the local salaries are evaluated by considering a full-time equivalent staff
+
+           for every three sites, paid at the minimum statutory wage of US$50 per month38. These two direct revenues
+
+           amount to a total cumulated value of US$122.3 million, which is in line with the public capital support of US$60
+
+           million provided by the project for financing digital infrastructures in targeted rural areas.",innovation,,,,"The passage introduces a digital data platform that combines alternative agricultural, financial, and behavioral data with an e-KYC registry and credit-scoring system to expand rural producers' access to financial services. The integration of these digital tools with mobile operators, financial institutions, unique IDs, and producer organizations represents a novel approach to addressing information and financial inclusion constraints in the project context.",True,True,underclassified_innovation
+P151469,subcomponent,1.1,Improving the enabling environment (US$4.52m),0.48365343,not_innovation,[],unclear,unclear,explicit,"The project will provide grant funding to an existing and proven partial portfolio credit guarantee fund and will be administered through the ongoing PASEF project, which is already implementing a broader Partial Portfolio Credit Guarantee scheme.","The activities described (value‑chain organization, training, policy analysis, and the partial credit guarantee fund) are presented as extensions of established mechanisms rather than materially new approaches, technologies, or institutional arrangements. The text explicitly notes the guarantee fund is ""existing and proven,"" indicating no novelty. Consequently, the evidence supports a classification of not_innovation.",0.87,1.1,"31.   The sub-component’s direct results include enhanced capabilities of private value
+
+chain participants and relevant government institutions to improve value chain
+
+18
+
+  The component costs include price contingencies of 6 percent as well as recurrent costs of US$ 0.796 million. Sub-
+
+component costs indicated below exclude recurrent component costs.
+
+
+
+                                                         10
+
+
+governance and efficiency, contributing to improved competitiveness and continued
+
+private investment and value chain expansion, leading to enhanced market access among
+
+producers. Operational modalities are based on the identification of demand-driven
+
+activities, involving calls for proposals with clear selection criteria (such as economic
+
+relevance, financial sustainability, smallholder inclusivity, gender considerations,
+
+environmental sustainability). Activities will be funded by the project, implemented by
+
+experienced service providers (specific to project area and groups of value chains, and
+
+that are already active and have the capacity and interest in participating), and will
+
+require contributions from value chain participants.
+
+(i) Value chain organization, coordination and planning. The Project will provide
+
+    technical assistance and activity-based funding to value chain stakeholders, starting
+
+    with the establishment of new, or strengthening existing, vertically integrated value
+
+    chain associations.19 Value chain organizations include farmers, collectors,
+
+    processors, and exporters/traders. Activities for funding will include:
+
+         a. Facilitating value chain organization by convening multi-stakeholder dialogue
+
+            groups with the objective of identifying key constraints and solution areas.
+
+            Training will be provided to enhance technical and organizational capacity of
+
+            value chain organization members that will improve dialogue and
+
+            coordination of value chain functions among stakeholders (especially required
+
+            among farmer organizations and small-scale collectors/intermediaries within
+
+            value chain with many players and where quality and food safety are
+
+            important, e.g. clove oil, milk, beef);
+
+         b. Conducting policy analysis on key issues (related to trade policy, competition
+
+            policy, regulatory framework, or other relevant policy priorities), and
+
+            engagement in policy dialogue with Government;
+
+         c. Technical assistance for the preparation of proposals based on the priorities
+
+            identified. Priorities are expected to include: systems to enhance intra-value
+
+            chain quality control and food safety (such as disease surveys, traceability
+
+            systems); technical training among producers and other value chain actors; the
+
+            identification of new varieties/breeds and processing technology and
+
+            subsequent roll-out; and maintenance programs of feeder roads.
+
+(ii) Value chain governance mechanisms and regulatory enforcement. Based on the
+
+     needs identified by value chain stakeholders, assistance will be provided to
+
+     implement stakeholder-led governance mechanisms and regulatory service provision.
+
+         a. Technical assistance will be provided for the implementation of mechanisms
+
+            for enforcement of quality standards, including food safety (traceability,
+
+            animal disease surveys), laboratory capacity (including for veterinary
+
+            purposes), and certification services (including animal husbandry and
+
+            veterinary). To strengthen regulatory enforcement capacity, public-private
+
+            arrangements will be developed.
+
+
+
+
+
+19
+
+  The associations’ mandates and organizational set-up for mobilizing internal sector resources and progressively
+
+achieving financing autonomy will be clearly described in the Project Implementation Manual (PIM).
+
+
+
+                                                         11
+
+
+          b. Where needed, existing legislation, regulations and enforcement practices in
+
+             support of sound governance and competitive practices within value chains
+
+             will be reviewed and improved. Depending on the area of legislation and the
+
+             commodity in question, this may involve the Economic Development Board
+
+             of Madagascar (EDBM), the Ministry of Agriculture, the Ministry in charge
+
+             of Livestock, the Ministry in charge of Decentralization, and the Ministry in
+
+             charge of Trade.
+
+Sub-component 1.2 – Knowledge and technology transfer (US$7.87m)
+
+32.      The sub-component’s direct results include enhanced knowledge and availability
+
+of improved technologies to increase production, and enhance productivity, quality, and
+
+profitability among private value chain participants, thus contributing to improved
+
+competitiveness and value chain expansion, leading to enhanced market access among
+
+producers. Operational modalities are based on the identification of demand-driven
+
+activities, involving calls for proposals with clear selection criteria (such as economic
+
+relevance, financial sustainability, smallholder inclusivity, environmental sustainability,
+
+and gender considerations). Activities will be funded by the project, implemented by
+
+experienced service providers, and will require contributions from value chain
+
+participants.
+
+(i) Demand led capacity development through training. A diversified pool of public,
+
+    private and non-governmental organization (NGO) training providers will be used to
+
+    enhance value chain performance among value chain actors, promoting the use of
+
+    appropriate advanced technologies throughout the value chains, addressing
+
+    environmental and natural resources concerns and constraints, and promoting sound
+
+    management practices including climate-smart agriculture technology20, all of which
+
+    aim to increase productivity and resilience and provide mitigation co-benefits.
+
+    Training curricula will be designed to address a wide range of aspects including
+
+    sustainability, financial management, climate adaptation, nutrition, and social and
+
+    gender implications. A prominent feature of this sub-component is the design and
+
+    delivery of training by Public-Private Partnerships (PPPs), involving farmers,
+
+    agribusiness companies, and training institutions. Capacity building needs and
+
+    activities would be identified under sub-component 1.1 by value chain actors
+
+    themselves. In designing and conducting the training, challenges and priorities
+
+    expressed by women farmers will be taken into account. This may include involving
+
+    women farmers in climate-smart trials and demonstrations, and the development of
+
+    training curricula. Similarly, where relevant, training activities will aim to provide the
+
+    youth with livelihood options and skills that would enable them to respond to
+
+    employment opportunities along the value chain.
+
+
+
+20
+
+   Climate-smart agriculture (CSA) aims to achieve climate change adaptation, mitigation and food security, increasing
+
+crop productivity and resilience. The adoption of climate-smart agriculture practices, such as conservation agriculture,
+
+no tillage systems, crop diversification and intercropping, improved water management, crop residue mulching,
+
+improved seeds, agroforestry can support them to increase and sustain crop productivity for their commercial
+
+production as well as subsistence production and produce environmental benefits such as increasing soil moisture and
+
+reducing land degradation. Local studies have shown positive impacts of CSA practices: within 4-5 years, degraded
+
+soils can be restored by climate-smart agriculture practice such as conservation agriculture, agroforestry, afforestation;
+
+adoption of conservation agriculture over a 5 year rotation can lead to a 66 percent increase of crop yields per year for
+
+rice and maize.
+
+
+
+                                                           12
+
+
+(ii) Enhancing access to improved technologies. The Project will facilitate the uptake
+
+     of productivity and efficiency enhancing technologies, some of which will bring
+
+     significant environmental benefits. The main delivery mechanism is technical
+
+     assistance, in some cases with community led implementation, and may include cost
+
+     sharing. Technology priorities will be identified under sub-component 1.1 by value
+
+     chain actors. Technologies to be rolled-out in various value chains would include
+
+     replanting old tree stock (cloves, lychee), post-harvest technology to farmer groups
+
+     and collectors; support to improvement of alembics (clove oil distillation units) to
+
+     enhance distillation efficiency and reduce firewood consumption; delivery of artificial
+
+     insemination and natural breed services, introduction of fodder seed and feed
+
+     concentrate; enhancement of milk collection centers’ technical capacity to enforce
+
+     industry quality requirements; support the development of contract farming schemes
+
+     for the animal feed industry. In most cases training will be an integral part of
+
+     technology development and roll-out.
+
+
+
+Sub-component 1.3 – Enhancing access to agriculture finance (US$5.30m)
+
+
+
+33.    The sub-component’s direct results include enhanced availability of value chain
+
+financing at the firm level, contributing to improved financial market liquidity among
+
+producers, traders, and processors in key value chains and value chain expansion, leading
+
+to improved market access. To operationalize this sub-component, the Project will
+
+provide grant funding to an existing and proven partial portfolio credit guarantee fund.
+
+34.     The Project will enhance access to value chain financing eligible producers,
+
+traders, processors, agribusiness small-medium enterprises (SMEs) and larger
+
+agribusiness firms to invest in new ventures and expand existing operations through a
+
+partial credit guarantee fund (PCGF), channeled through commercial banks and micro-
+
+finance institutions (MFIs) and combined with TA.
+
+
+
+(i) Partial Credit Guarantee Fund for agribusiness: The fund will initially be
+
+    administered through the ongoing PASEF project, which is currently implementing a
+
+    broader Partial Portfolio Credit Guarantee (PPCG) scheme, managed by a local fund
+
+    manager, SOLIDIS. PASEF will exclusively direct the Project’s PPCG fund to
+
+    eligible producers, traders, processors, agribusiness SMEs and larger agribusiness
+
+    firms through a dedicated loan guarantee window in the targeted locations to help
+
+    achieve the scale effects intended by this operation. The agribusiness window would
+
+    eventually be managed by SOLIDIS and thus be embedded in an existing institution
+
+    with good prospects for sustainability. The objective of the PPCG is to facilitate
+
+    access to credit by small and larger agribusiness enterprises. Currently, five financial
+
+    institutions are participating and it is expected that this will increase to ten in 2016. At
+
+    present, 4 million US$ in capital can support a volume of loans of 16 million US$
+
+    entered in the guarantee. A similar loan volume can be expected with the Project’s
+
+    contribution to the PPCG Fund of US$4.5 million, which will be disbursed in three
+
+    tranches based on performance.
+
+
+
+(ii) Technical assistance (TA) program: The Project will support complementary
+
+     capacity building among participating financial institutions (PFIs) and within
+
+
+
+
+
+                                              13
+
+
+     SOLIDIS. Within the PFIs, the TA will help with the assessment of credits, the
+
+     development of products tailored to the needs of the sector, and marketing.",innovation,,,,"The passage introduces and rolls out improved agricultural technologies and practices, including more efficient clove-oil distillation units, artificial insemination, improved fodder and feed, and climate-smart agriculture. These represent concrete technology and practice improvements intended to enhance productivity and environmental performance.",True,False,missed_innovation_signal
+P173240,subcomponent,2.3,Financing demand-side interventions (US$13.0 million),0.30294162,possible_innovation,"['financing_instrument', 'process_service_delivery']",new_to_context,early_adoption,weakly_inferred,"Financing mechanisms to improve the affordability of handsets... vouchers/guarantees covering up to 60% of acquisition and maintenance costs, spreading the cost over several years, and linking to social safety‑net projects","The subcomponent proposes device‑financing vouchers and cost‑spreading mechanisms that differ from typical supply‑side subsidies, suggesting a novel financing approach to stimulate broadband demand, though the text does not explicitly label it as new",0.78,2.3,"40.      This subcomponent will finance interventions that seek to increase the demand for broadband
+
+   services in the targeted areas and beyond. Supply-side interventions and network infrastructure alone
+
+   will not drive broadband adoption to scale. As noted in the Connecting Humanity report,73 “in Sub-Saharan
+
+   Africa, around 80 percent of those covered by a 4G network are not connected because of the lack of
+
+   affordable access,74 limited relevant content and the skills to benefit from Internet access. Such realities
+
+   disclose economic and social disparities that affect the rate of adoption, use, and ultimately the
+
+   opportunity to benefit from broadband access.” Therefore, it is imperative to focus on and invest in
+
+   complementary initiatives that stimulate demand for broadband services, with a special focus on closing
+
+   the digital gender divide.
+
+
+
+
+
+
+
+   71 The financing of connectivity for public enterprises will be done in a way that does not squeeze out private-sector providers.
+
+   Beneficiaries are listed in Section II-C.
+
+   72 This subsidy may not be needed if retail prices are regulated.
+
+   73 ITU. 2020. Connecting Humanity - Assessing Investment Needs of Connecting Humanity to the Internet by 2030.
+
+   74 According to the 2019 Affordability Report of the A4AI, only 10 out of 45 African countries have affordable internet,
+
+
+
+   calculated as 1 GB of mobile prepaid data of 2 percent or less of average monthly income. See: A4AI. 2019. Affordability Report
+
+   2019, Africa Regional Snapshot. https://1e8q3q16vyc81g8l3h3md6q5f5e-wpengine.netdna-ssl.com/wp-
+
+   content/uploads/2019/12/AR2019_Africa-Regional_Screen_AW.pdf.
+
+
+
+
+
+
+
+                                                                                                                             Page 29 of 92
+
+
+The World Bank
+
+Acceleration of the Digital Transformation of Cameroon Project (P173240)
+
+
+
+
+
+
+
+   41.      Financed interventions target the specific bottlenecks associated with (a) device affordability;
+
+   (b) digital literacy and awareness; and (c) availability of locally relevant digital content. Specifically, this
+
+   subcomponent will support the following:
+
+
+
+        (a)   Financing mechanisms to improve the affordability of handsets. Mechanisms will be
+
+              implemented to facilitate the payment for devices by end users, such as spreading the cost of a
+
+              handset over several years. These mechanisms will have a target of at least 50 percent female
+
+              beneficiaries, and they may offer vouchers/guarantees that cover up to 60 percent of acquisition
+
+              and maintenance costs for handsets, digital payment devices, and other assets. These
+
+              mechanisms will potentially build synergies with existing or planned social safety net projects
+
+              (that rely on mobile payments) and complement measures on the taxation regime (for example,
+
+              reduction of import duties for digital equipment), potentially taken after the taxation study
+
+              conducted through Subcomponent 1.1 to increase the affordability of digital devices.
+
+        (b)   Training and capacity-building programs to increase digital and financial literacy75 rates for key
+
+              public entities and end users, especially the youth, women, and people with disabilities. These
+
+              programs will incorporate gender-inclusive design elements to maximize women’s training
+
+              participation and employment outcomes, including in-person training, online training modules,
+
+              peer learning, and mentorship. These activities will leverage ‘women in technology’ networks to
+
+              target women and girls, as well as women’s centers, youth organizations, nongovernmental
+
+              organizations (NGOs), and community associations whose aim is to help people with disabilities
+
+              to (i) ensure their equitable social, political, and economic participation and (ii) design training
+
+              programs to better suit their needs. Design features will also seek to address additional
+
+              constraints that create barriers to participation—including affordability, access, safety, and
+
+              childcare and elderly care responsibilities. In-person training and capacity-building programs will
+
+              be held in locations that women feel safe traveling to, with physical accommodations for
+
+              beneficiaries with disabilities, meals provided on-site and transport stipends. Where possible,
+
+              programs will offer spaces to provide childcare or will connect beneficiaries with affordable
+
+              childcare programs. Opening and closing hours will be friendly to women. Programs may offer
+
+              women-only training cohorts led by female trainers, to ensure women feel comfortable actively
+
+              participating in sessions. Additionally, this subcomponent will support the activities of Component
+
+              3, namely the design and preparation of e-agriculture modules, the provision of the software to
+
+              build the capacity of students and trainers, the setup of a digital library to facilitate access to
+
+              documentation for learners in the rural sector, and the acquisition of the on-farm management
+
+              software.
+
+
+
+        (c)   Development of attractive, media-rich, language-specific content and services accompanied by
+
+              impactful communication campaigns to enhance awareness around digital services and the
+
+              possibilities and opportunities they enable. Communications campaigns will be context-specific,
+
+              addressing the needs, challenges, and realities of marginalized and underserved populations,
+
+              including rural communities, women, and people with disabilities. Such content and services could
+
+              be pushed out to end users through web portals and mobile applications, which will be developed
+
+
+
+   75Basic skills: web research, online communication, and mobile money transfer. Intermediate/advanced skills: e-commerce
+
+   platforms, online banking and investing, online freelancing, and tech entrepreneurship jobs.
+
+
+
+
+
+
+
+                                                                                                                       Page 30 of 92
+
+
+The World Bank
+
+Acceleration of the Digital Transformation of Cameroon Project (P173240)
+
+
+
+
+
+
+
+              in close interaction with the sector’s stakeholders. For this purpose, the project will initiate calls
+
+              for proposals and provide support to the best entrepreneurs who develop high-quality, relevant
+
+              content and services. Communications campaigns will also supplement digital engagement with
+
+              traditional media. As women and rural communities face a gap in internet usage, social media
+
+              messages should be supplemented by print, radio, and graphic communications. The program will
+
+              also partner with community-based women’s groups, religious leaders, and local community
+
+              leaders to co-develop communications campaigns.",innovation,,,,"The passage introduces targeted, gender-inclusive approaches to broadband adoption that combine device-financing mechanisms, tailored digital literacy, peer learning and mentorship, accessible training arrangements, and co-developed locally relevant digital content. The integrated design addresses multiple adoption barriers rather than relying on conventional connectivity infrastructure alone.
+",True,True,underclassified_innovation
+P180059,subcomponent,3.1,Digitalization of Public Services in Key Sectors (US$20 million),0.42116314,possible_innovation,"['digital_data_technology', 'process_service_delivery']",new_to_context,pilot,weakly_inferred,"The text mentions piloting start‑up business models for public service delivery and a feasibility study for a national AI platform, as well as ""vertical digitalization"" of civil registration.","The project describes activities that go beyond routine digitization, such as piloting new business models and exploring a national AI platform, which suggest material differences in technology and service delivery. However, the text does not explicitly state these are novel or first‑of‑its‑kind, so the innovation signal is inferred rather than confirmed.",0.68,3.1,"36.        Key activities to be financed under this subcomponent include the following:
+
+      (a) Studies, pre-assessments, TA, and capacity-building activities to support a whole-of-government approach
+
+          (taking a human-centered design approach that assures the application of appropriate data protection, privacy,
+
+
+
+39 The CIPP is a national framework established to safeguard the country's essential infrastructure and services against a range of threats, including cyberattacks, natural
+
+disasters, and other disruptions. It outlines measures to protect critical sectors such as energy, water, transportation, health care, finance, and digital services. The plan
+
+emphasizes both physical and digital security, ensuring the resilience and continuity of services vital to national security, economic stability, and public well-being.
+
+40
+
+   The Ivorian Agency for Radio Frequency Management (Agence Ivoirienne de Gestion des Fréquences radioélectriques, AIGF) has conducted compliance checks of 4,840
+
+sites from 2019 to 2023, of which 552 have been identified as ‘significantly dangerous’.
+
+                                Official Use Only                                                                                                                    Page 14
+
+
+          The World Bank
+
+          Results Acceleration Program For Inclusive Digitalization in Côte d'Ivoire (RAPID-CI) – Phase 1 (P180059)
+
+
+
+
+
+          and user-consent policies) by providing or piloting start-up business models for public service delivery in the select
+
+          sectors. These initiatives will leverage existing DPIs (foundation ID provided by WURI, electronic signature,
+
+          TresorPay supported by THE Enhancing Government Effectiveness for Improved Public Services Program for
+
+          Results (PforR) (PAGDS) (P164302), and other DPIs emerging from the AfDB-funded project41) and focus on user-
+
+          centric design, digital trust frameworks, and quality monitoring. Efforts will also reorganize digital services around
+
+          key life events (for example, births, marriages and deaths, judicial needs) to simplify citizen interactions. Phase 1
+
+          will enhance beneficiaries' capacity to train local agents and officials concerning the correct usage of digital tools
+
+          and updated legal frameworks.
+
+     (b) Readiness assessments, technical support, and capacity-building initiatives42 to support and enable
+
+          reengineering, simplification, digitalization, and accessibility of public services in selected priority sectors
+
+          (health, civil registration, and justice). In alignment with the goal to maximize citizen impact and leverage
+
+          synergies with other World Bank operations to sustain and maximize the current sectoral policy reforms, Phase 1
+
+          will prioritize a targeted subset of high-impact digital public services. This will help ensure immediate benefits,
+
+          sustainability, and complementarity with ongoing sector initiatives. Key focus areas include the following:
+
+        (a) Civil registration: simplifying and digitizing processes for issuing birth, marriage, and death certificates to
+
+              enhance accessibility while also reducing administrative complexity and processing times. For instance, vertical
+
+              digitalization in the context of civil registration refers to the end-to-end adoption and integration of digital
+
+              tools, systems, and processes across every layer of the civil registration value chain. Instead of only digitizing
+
+              isolated functions—such as data entry, data storage, or ID card issuance—vertical digitalization transforms the
+
+              entire process in a unified, connected manner. The interoperability of civil registration with other existing ID
+
+              systems will be thoroughly examined to ensure seamless data exchange, improved service delivery, and
+
+              enhanced identity verification across select sectors, while avoiding duplication and fragmentation.
+
+        (b) Health: expanding the coverage and effective implementation of the CMU system, supported by the Côte
+
+              d'Ivoire Health, Nutrition, and Early Childhood Development (MPA - Phase 1) Program (P179550), by improving
+
+              and scaling up its existing digital solutions, establishing secure data hosting solutions for the integration of
+
+              essential data systems, for example, DHIS 2 and SIH and deploying modern ICT equipment in health facilities
+
+              to ensuring real-time service monitoring, enhanced accountability, and seamless integration of health financing
+
+              and service delivery platforms. Additionally, and as a follow-on to the PAGDS, Phase 1 will support the effective
+
+              implementation of a unified and interoperable health information ecosystem, the rollout of electronic patient
+
+              records system (EPRS) across several levels of care, the integration of other pilot digital services (such as the
+
+              Santé CIV platform for online appointments and bookings, and telemedicine) as well as select AI use cases
+
+              leveraging analytics on CMU utilization and disease trends to inform planning, allocate resources, and detect
+
+              outbreaks early.
+
+        (c) Justice: digitalizing and streamlining processes for obtaining criminal record certificates and certificates of
+
+              nationality; ensuring faster access to non-justice-related documents; and enhancing access to public services,
+
+              such as accessing judicial decisions for civil registration cases. Phase 1 will also support the effective
+
+              implementation of the Ministry of Justice’s new integrated digital platform, which is aimed at modernizing civil
+
+              and penal procedures, as well as ensuring interoperability with civil registration and health services.
+
+     (c) Strengthening of key actors43 in the modernization of public services and monitoring of the quality and user trust
+
+          in digital public services and the conduct of user feedback loops, with equipment and capacity-building activities.
+
+
+
+
+
+
+
+41 Potential DPIs emerging from the AfDB-funded project are a national data interoperability platform, a national digital payment infrastructure, and an e-ID system.
+
+Once available, the project will ensure their effective application in and benefits for the sectors targeted by this project.
+
+42 Outputs can include sectoral digital strategies, audits, regulations, development of norms, standards and policies, provision of software and hardware, training
+
+
+
+programs, data integration, security, migration and archiving, and change management activities.
+
+43 This will include the Directorates of Administrative Organization Modernization and the Public Service Observatory in the MPSAM.
+
+
+
+
+
+                               Official Use Only                                                                                                            Page 15
+
+
+           The World Bank
+
+           Results Acceleration Program For Inclusive Digitalization in Côte d'Ivoire (RAPID-CI) – Phase 1 (P180059)
+
+
+
+
+
+      (d) Feasibility study for the development of a national AI platform, which will offer AI models optimized for public
+
+          administration performance needs. These results will provide a solid foundation to make an informed decision
+
+          about the implementation of the AI platform and specific use cases, which Phase 1 could support.",innovation,,,,"The passage describes several potentially novel digital approaches, including end-to-end digitalization and interoperability of public services, AI models tailored to public administration, integrated health information systems, telemedicine, and user-centered digital service design. These go beyond routine digitization by introducing new integrated technologies and service-delivery approaches.",True,True,underclassified_innovation

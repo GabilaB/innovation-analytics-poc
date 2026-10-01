@@ -1,0 +1,9 @@
+metric,value
+multiclass_accuracy,0.7428571428571429
+macro_f1,0.7845588235294119
+weighted_f1,0.7245378151260504
+binary_precision,1.0
+binary_recall,0.8846153846153846
+binary_f1,0.9387755102040817
+validation_sample_size,35.0
+exact_disagreements,9.0
