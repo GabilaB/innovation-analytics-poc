@@ -167,8 +167,8 @@ API ingestion → component extraction
     """)
     st.divider()
     st.markdown(
-        "[GitHub repo] (https://github.com/GabilaB/innovation-analytics-poc)"
-        " · [wbuma.com] (https://wbuma.com)"
+        "[GitHub repo](https://github.com/GabilaB/innovation-analytics-poc) · [wbuma.com](https://wbuma.com)",
+        unsafe_allow_html=True,
     )
 
 # --------------------------------------------------
