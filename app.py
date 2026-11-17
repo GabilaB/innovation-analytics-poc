@@ -333,32 +333,94 @@ with tab3:
         )
 
         if selected == "All types":
-            display = by_country.copy()
-            display["Total"] = display.sum(axis=1)
-            display = display.sort_values("Total", ascending=False)
+            map_df = by_country.copy()
+            map_df["Total"] = map_df.sum(axis=1)
+            map_df["value"] = map_df["Total"]
+            hover_label = "Total signals"
         else:
-            display = by_country[[selected]].copy()
-            display = display[display[selected] > 0].sort_values(selected, ascending=False)
+            map_df = by_country[[selected]].copy()
+            map_df["value"] = map_df[selected]
+            hover_label = selected.replace("_", " ").title()
 
-        st.markdown('<p class="section-label">Signals by country</p>', unsafe_allow_html=True)
-        st.dataframe(display, use_container_width=True)
+        map_df = map_df.reset_index()
+        map_df.columns = [str(c) for c in map_df.columns]
 
-        if selected != "All types":
-            chart_df = display.reset_index()
-            chart_df.columns = ["Country", "Projects"]
-            fig = px.bar(
-                chart_df.head(15).sort_values("Projects"),
-                x="Projects", y="Country", orientation="h",
-                color_discrete_sequence=[NAVY],
+        # Build hover text
+        if selected == "All types":
+            map_df["hover"] = (
+                "<b>" + map_df["country"] + "</b><br>"
+                + "Total signals: " + map_df["value"].astype(str)
+                + "<br><br>"
+                + "Digital / data: " + map_df.get("digital_data_technology", pd.Series(0, index=map_df.index)).astype(str)
+                + "<br>Institutional: " + map_df.get("institutional_governance", pd.Series(0, index=map_df.index)).astype(str)
+                + "<br>Financing: " + map_df.get("financing_instrument", pd.Series(0, index=map_df.index)).astype(str)
+                + "<br>Process / delivery: " + map_df.get("process_service_delivery", pd.Series(0, index=map_df.index)).astype(str)
+                + "<br>Policy / regulatory: " + map_df.get("policy_regulatory", pd.Series(0, index=map_df.index)).astype(str)
+                + "<br>Product / service: " + map_df.get("product_service", pd.Series(0, index=map_df.index)).astype(str)
             )
-            fig.update_layout(
-                margin=dict(l=0, r=20, t=10, b=0), height=400,
-                plot_bgcolor="white", paper_bgcolor="white",
-                font=dict(family="Inter", size=12),
-                xaxis=dict(gridcolor="#f1f5f9"),
+        else:
+            map_df["hover"] = (
+                "<b>" + map_df["country"] + "</b><br>"
+                + hover_label + ": " + map_df["value"].astype(str)
             )
-            st.plotly_chart(fig, use_container_width=True)
 
+        st.markdown('<p class="section-label">Innovation signals by country</p>', unsafe_allow_html=True)
+
+        fig = px.choropleth(
+            map_df,
+            locations="country",
+            locationmode="country names",
+            color="value",
+            hover_name="country",
+            custom_data=["hover"],
+            color_continuous_scale=[
+                [0.0, "#e9eef4"],
+                [0.3, "#7fa8c9"],
+                [0.6, "#3a6f9f"],
+                [1.0, "#0a1628"],
+            ],
+            scope="africa",
+            labels={"value": hover_label},
+        )
+
+        fig.update_traces(
+            hovertemplate="%{customdata[0]}<extra></extra>",
+        )
+
+        fig.update_layout(
+            margin=dict(l=0, r=0, t=10, b=0),
+            height=520,
+            paper_bgcolor="white",
+            geo=dict(
+                bgcolor="white",
+                showframe=False,
+                showcoastlines=True,
+                coastlinecolor="#d8d6ce",
+                showland=True,
+                landcolor="#f7f6f2",
+                showocean=True,
+                oceancolor="#f0f4f8",
+                showlakes=False,
+                showcountries=True,
+                countrycolor="#d8d6ce",
+            ),
+            coloraxis_colorbar=dict(
+                title=hover_label,
+                thickness=12,
+                len=0.5,
+                tickfont=dict(size=11, family="Inter"),
+            ),
+            font=dict(family="Inter", size=12),
+        )
+
+        st.plotly_chart(fig, use_container_width=True)
+
+        st.divider()
+
+        st.markdown('<p class="section-label">Full table</p>', unsafe_allow_html=True)
+
+        display_df = map_df.drop(columns=["hover", "value"], errors="ignore")
+        st.dataframe(display_df, hide_index=True, use_container_width=True)
 
 # ==================================================
 # TAB 4 — BROWSE RECORDS
